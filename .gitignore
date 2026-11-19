@@ -1,0 +1,10 @@
+# third-party papers
+01_Reference_Literature/**/*.pdf
+2026-EROLLGEN*.pdf
+# build artefacts
+__pycache__/
+*.pyc
+*.recovery
+*.status
+.vscode/
+Thumbs.db

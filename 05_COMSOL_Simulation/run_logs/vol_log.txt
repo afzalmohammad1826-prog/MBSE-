@@ -1,0 +1,669 @@
+*******************************************
+***COMSOL 6.2.0.339 progress output file***
+*******************************************
+Fri Nov 13 11:37:35 IST 2026
+COMSOL Multiphysics 6.2 (Build: 339) starting in batch mode
+Running: D:\MBSE\VolCheck.class
+---------- Current Progress: 100 % - Updating selections
+Memory: 487/487 534/537
+           Current Progress:   0 % - Import 1
+Memory: 496/496 543/543
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS1_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-07T18:24:50+05:30
+Begin CAD File Read 'D:/MBSE/AS1_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1431
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3230
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   780
+cartesian_point ..........................................:   10718
+circle ...................................................:   692
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   279
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   273
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   8380
+edge_curve ...............................................:   4496
+edge_loop ................................................:   1503
+ellipse ..................................................:   1104
+face_bound ...............................................:   72
+face_outer_bound .........................................:   1431
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   1920
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   8992
+plane ....................................................:   879
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationshi   1
+geometric_representation_cont
+-          Current Progress:  13 % - Importing STEP
+Memory: 499/499 546/548
+ext_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   1920
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   8992
+plane ....................................................:   879
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   1920
+vertex_point .............................................:   2997
+                                                             -------
+Total                                                         51167
+--         Current Progress:  25 % - Importing STEP
+Memory: 500/500 547/548
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 525/525 567/567
+----       Current Progress:  42 % - Applying transforms
+Memory: 476/527 526/568
+-----      Current Progress:  50 % - Form Union
+Memory: 486/527 535/568
+-----      Current Progress:  50 % - Performing Boolean operation
+Memory: 508/527 552/568
+---------- Current Progress: 100 % - Updating selections
+Memory: 516/527 556/568
+--         Current Progress:  27 % - Analyzing geometry
+Memory: 544/547 579/583
+---------- Current Progress: 100 % - Analyzing geometry
+Memory: 540/547 572/583
+---------- Current Progress: 100 % - Updating selections
+Memory: 530/547 566/583
+           Current Progress:   0 % - Import 1
+Memory: 535/547 573/583
+           Current Progress:   0 % - Importing STEP
+Memory: 537/547 573/583
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-07T18:24:41+05:30
+Begin CAD File Read 'D:/MBSE/AS2_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1736
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3868
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   696
+cartesian_point ..........................................:   12474
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10393
+edge_curve ...............................................:   5482
+edge_loop ................................................:   1856
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1736
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relatio.:   1
+geometric_representation_co
+-          Current Progress:  13 % - Importing STEP
+  
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2657
+vertex_point .............................................:   3630
+                                                             -------
+Total                                                         62204
+--         Current Progress:  25 % - Importing STEP
+.....................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2657
+vertex_point .............................................:   3630
+                                                             -------
+Total                                                         62204
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 508/547 546/583
+----       Current Progress:  47 % - Checking part 3 of 3
+Memory: 501/547 540/583
+-----      Current Progress:  50 % - Form Union
+Memory: 506/547 545/583
+-----      Current Progress:  50 % - Performing Boolean operation
+Memory: 535/547 573/583
+---------- Current Progress: 100 % - Updating selections
+Memory: 540/547 578/583
+--         Current Progress:  27 % - Analyzing geometry
+Memory: 559/559 597/597
+---------- Current Progress: 100 % - Analyzing geometry
+Memory: 555/566 591/603
+---------- Current Progress: 100 % - Updating selections
+Memory: 554/566 590/603
+           Current Progress:   0 % - Import 1
+Memory: 547/566 583/603
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::NS_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-07T18:24:33+05:30
+Begin CAD File Read 'D:/MBSE/NS_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1245
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   2944
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   480
+cartesian_point ..........................................:   8814
+circle ...................................................:   532
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   142
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   104
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   7562
+edge_curve ...............................................:   3850
+edge_loop ................................................:   1317
+ellipse ..................................................:   1164
+face_bound ...............................................:   72
+face_outer_bound .........................................:   1245
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   1674
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   7700
+plane ....................................................:   999
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship .1
+geometric_representation_context
+-          Current Progress:  13 % - Importing STEP
+Memory: 556/566 591/603
+_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   1674
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   7700
+plane ....................................................:   999
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   1674
+vertex_point .............................................:   2525
+                                                             -------
+Total                                                         44113
+--         Current Progress:  25 % - Importing STEP
+Memory: 555/566 590/603
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 508/566 545/603
+----       Current Progress:  42 % - Applying transforms
+Memory: 500/566 537/603
+-----      Current Progress:  50 % - Form Union
+Memory: 505/566 542/603
+-----      Current Progress:  50 % - Performing Boolean operation
+Memory: 524/566 561/603
+---------- Current Progress: 100 % - Updating selections
+Memory: 529/566 566/603
+--         Current Progress:  27 % - Analyzing geometry
+Memory: 539/566 576/603
+---------- Current Progress: 100 % - Analyzing geometry
+Memory: 535/566 570/603
+---------- Current Progress: 100 % - Updating selections
+Memory: 547/566 581/603
+           Current Progress:   0 % - Import 1
+Memory: 548/566 582/603
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2U_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:30:56+05:30
+Begin CAD File Read 'D:/MBSE/AS2U_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1736
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3868
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   696
+cartesian_point ..........................................:   12474
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10393
+edge_curve ...............................................:   5482
+edge_loop ................................................:   1856
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1736
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+           Current Progress:   0 % - Importing STEP
+-          Current Progress:  13 % - Importing STEP
+Memory: 548/566 581/603
+--         Current Progress:  25 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2657
+vertex_point .............................................:   3630
+                                                             -------
+Total                                                         62204
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 549/566 584/603
+----       Current Progress:  47 % - Checking part 3 of 3
+Memory: 530/566 565/603
+-----      Current Progress:  50 % - Form Union
+Memory: 533/566 568/603
+-----      Current Progress:  50 % - Performing Boolean operation
+Memory: 563/566 599/603
+---------- Current Progress: 100 % - Updating selections
+Memory: 569/570 605/606
+--         Current Progress:  27 % - Analyzing geometry
+Memory: 624/624 658/658
+---------- Current Progress: 100 % - Analyzing geometry
+Memory: 612/624 645/658
+---------- Current Progress: 100 % - Updating selections
+           Current Progress:   0 % - Import 1
+           Current Progress:   0 % - Importing STEP
+Memory: 616/624 649/658
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2G_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:29:45+05:30
+Begin CAD File Read 'D:/MBSE/AS2G_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1712
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3844
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   684
+cartesian_point ..........................................:   12354
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10309
+edge_curve ...............................................:   5434
+edge_loop ................................................:   1832
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1712
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+Memory: 615/624 648/658
+--         Current Progress:  25 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2621
+vertex_point .............................................:   3606
+                                                             -------
+Total                                                         61628
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 568/624 603/658
+----       Current Progress:  42 % - Applying transforms
+Memory: 617/632 653/670
+-----      Current Progress:  50 % - Form Union
+-----      Current Progress:  50 % - Performing Boolean operation
+Memory: 644/644 678/678
+---------- Current Progress: 100 % - Updating selections
+Memory: 650/650 684/684
+--         Current Progress:  27 % - Analyzing geometry
+Memory: 659/659 691/691
+---------- Current Progress: 100 % - Analyzing geometry
+Memory: 655/667 687/699
+Class run time: 29 s.
+Total time: 29 s.
+---------- Current Progress: 100 % - Done
+Memory: 656/667 688/699

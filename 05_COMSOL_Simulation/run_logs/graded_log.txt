@@ -1,0 +1,2137 @@
+*******************************************
+***COMSOL 6.2.0.339 progress output file***
+*******************************************
+Fri Nov 13 11:31:51 IST 2026
+COMSOL Multiphysics 6.2 (Build: 339) starting in batch mode
+Running: D:\MBSE\GradedRun.class
+=============================================================
+ GradedRun — COMSOL Multiphysics 6.2 Java API
+ 3D Auxetic Bone Screw Linear Static Structural FEA
+ Total models to simulate: 2
+=============================================================
+
+-------------------------------------------------------------
+ [1/2] STARTING SIMULATION: AS2U_screw
+-------------------------------------------------------------
+>>> [1/8] Creating component and geometry sequence...
+---------- Current Progress: 100 % - Updating selections
+Memory: 469/476 528/534
+>>> [2/8] Importing CAD: D:/MBSE/AS2U_screw.step
+           Current Progress:   0 % - Import 1
+Memory: 476/476 535/535
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2U_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:30:56+05:30
+Begin CAD File Read 'D:/MBSE/AS2U_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1736
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3868
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   696
+cartesian_point ..........................................:   12474
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10393
+edge_curve ...............................................:   5482
+edge_loop ................................................:   1856
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1736
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+Memory: 479/479 537/538
+-          Current Progress:  17 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2657
+vertex_point .............................................:   3630
+                                                             -------
+Total                                                         62204
+--         Current Progress:  25 % - Importing STEP
+Memory: 480/480 538/538
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 508/508 561/561
+----       Current Progress:  47 % - Checking part 3 of 3
+Memory: 516/516 567/567
+-----      Current Progress:  50 % - Form Union
+Memory: 521/521 570/570
+-----      Current Progress:  50 % - Performing Boolean operation
+Memory: 552/552 601/601
+---------- Current Progress: 100 % - Updating selections
+Memory: 560/560 608/608
+    Geometry imported and unioned in 3.83 s.
+>>> [3/8] Assigning material Ti-6Al-4V ELI...
+>>> [4/8] Configuring 3D Solid Mechanics physics...
+>>> [5/8] Locating boundary surfaces via coordinate box filters...
+           Current Progress:   0 % - Creating visualization mesh
+Memory: 861/869 922/931
+---------- Current Progress: 100 % - Creating visualization mesh
+Memory: 849/869 918/931
+    Tip fixed boundaries found: 2 | Head displacement boundaries found: 3
+>>> [6/8] Generating 3D tetrahedral mesh...
+Number of vertex elements: 3735
+           Current Progress:   1 % - Creating boundary mesh
+Memory: 879/879 941/941
+           Current Progress:   5 % - Creating boundary mesh
+Memory: 945/945 1009/1009
+-          Current Progress:  11 % - Adjusting boundary mesh
+Memory: 853/945 953/1009
+-          Current Progress:  19 % - Adjusting boundary mesh
+Memory: 856/945 955/1009
+--         Current Progress:  22 % - Creating boundary mesh
+Memory: 859/945 957/1009
+--         Current Progress:  23 % - Creating boundary mesh
+Memory: 859/945 958/1009
+--         Current Progress:  25 % - Creating boundary mesh
+Memory: 860/945 958/1009
+--         Current Progress:  26 % - Creating boundary mesh
+Number of edge elements: 8618
+Number of boundary elements: 23202
+---        Current Progress:  35 % - Meshing domains
+Memory: 819/945 890/1009
+---------  Current Progress:  99 % - Finalizing mesh
+Memory: 824/945 903/1009
+Number of elements: 38749
+Minimum element quality: 0.01157
+---------- Current Progress: 100 % - Finalizing mesh
+Memory: 798/945 862/1009
+    Mesh generated in 4.40 s.
+>>> [7/8] Running stationary structural solver...
+<---- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) -------------
+Started at Nov 13, 2026, 11:32:09 AM.
+Geometry shape function: Quadratic serendipity
+Running on Intel64 Family 6 Model 183 Stepping 1, GenuineIntel.
+Using 1 socket with 12 cores in total on Afz.
+Available memory: 32.51 GB.
+           Current Progress:   1 % - Compile Equations: Stationary 1
+Memory: 974/974 1027/1028
+           Current Progress:   5 % - Compile Equations: Stationary 1
+Memory: 996/998 1048/1052
+Time: 2 s.
+Physical memory: 1.01 GB
+Virtual memory: 1.08 GB
+Ended at Nov 13, 2026, 11:32:11 AM.
+----- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) ------------>
+<---- Dependent Variables 1 in Study 1/Solution 1 (sol1) -----------------------
+Started at Nov 13, 2026, 11:32:11 AM.
+           Current Progress:   5 % - Dependent Variables 1
+Memory: 1046/1069 1124/1140
+Solution time: 0 s.
+Physical memory: 1.05 GB
+Virtual memory: 1.12 GB
+Ended at Nov 13, 2026, 11:32:11 AM.
+----- Dependent Variables 1 in Study 1/Solution 1 (sol1) ---------------------->
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Started at Nov 13, 2026, 11:32:11 AM.
+Linear solver
+Number of degrees of freedom solved for: 225954 (plus 1 internal DOFs).
+--         Current Progress:  22 % - Assembling sparsity pattern
+Memory: 1307/1397 1457/1457
+---        Current Progress:  37 % - 
+Memory: 1492/1595 1544/1664
+Symmetric matrices found.
+Scales for dependent variables:
+Displacement Field (comp1.u): 1
+Orthonormal null-space function used.
+---        Current Progress:  37 % - Matrix factorization
+Memory: 1456/1595 1567/1664
+------     Current Progress:  62 % - Matrix factorization
+Memory: 2159/2159 2928/2928
+--------   Current Progress:  85 % - Matrix factorization
+Memory: 2341/2341 2932/2932
+---------  Current Progress:  90 % - Matrix factorization
+Memory: 2382/2382 2932/2933
+Iter      SolEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+   1        0.85   1.0000000        0.85    1    1    1  1.3e-12  5.6e-15
+---------- Current Progress: 100 % - Solving linear system
+Memory: 1187/2382 1505/2933
+Solution time: 4 s.
+Physical memory: 2.38 GB
+Virtual memory: 2.93 GB
+Ended at Nov 13, 2026, 11:32:15 AM.
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+    Solver converged in 8.13 s.
+>>> [8/8] Evaluating results and exporting to CSV...
+RAMPZONE 4654.447325044214 VOLUME 339.61602576743263
+>>> [SUCCESS] AS2U_screw completed in 25 seconds.
+    Model Model_AS2U_screw_6 cleared from memory.
+
+-------------------------------------------------------------
+ [1/2] STARTING SIMULATION: AS2U_screw
+-------------------------------------------------------------
+>>> [1/8] Creating component and geometry sequence...
+---------- Current Progress: 100 % - Updating selections
+Memory: 1368/2382 1679/2933
+>>> [2/8] Importing CAD: D:/MBSE/AS2U_screw.step
+           Current Progress:   0 % - Import 1
+Memory: 1371/2382 1680/2933
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2U_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:30:56+05:30
+Begin CAD File Read 'D:/MBSE/AS2U_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1736
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3868
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   696
+cartesian_point ..........................................:   12474
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10393
+edge_curve ...............................................:   5482
+edge_loop ................................................:   1856
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1736
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+Memory: 1383/2382 1691/2933
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2657
+vertex_point .............................................:   3630
+                                                             -------
+Total                                                         62204
+--         Current Progress:  25 % - Importing STEP
+Memory: 1303/2382 1614/2933
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 1290/2382 1596/2933
+----       Current Progress:  47 % - Checking part 3 of 3
+Memory: 1297/2382 1605/2933
+-----      Current Progress:  50 % - Form Union
+Memory: 1303/2382 1610/2933
+---------- Current Progress: 100 % - Updating selections
+Memory: 1304/2382 1611/2933
+    Geometry imported and unioned in 3.64 s.
+>>> [3/8] Assigning material Ti-6Al-4V ELI...
+>>> [4/8] Configuring 3D Solid Mechanics physics...
+>>> [5/8] Locating boundary surfaces via coordinate box filters...
+    Tip fixed boundaries found: 2 | Head displacement boundaries found: 3
+>>> [6/8] Generating 3D tetrahedral mesh...
+Number of vertex elements: 3735
+           Current Progress:   1 % - Creating boundary mesh
+Memory: 1399/2382 1703/2933
+           Current Progress:   3 % - Creating boundary mesh
+Memory: 1442/2382 1746/2933
+           Current Progress:   7 % - Analyzing domains
+Memory: 1454/2382 1758/2933
+-          Current Progress:  12 % - Adjusting boundary mesh
+Memory: 1462/2382 1768/2933
+-          Current Progress:  15 % - Adjusting boundary mesh
+Memory: 1466/2382 1772/2933
+--         Current Progress:  22 % - Creating boundary mesh
+Memory: 1462/2382 1766/2933
+Number of edge elements: 10154
+Number of boundary elements: 33924
+---        Current Progress:  35 % - Creating initial tetrahedra
+Memory: 1359/2382 1678/2933
+----       Current Progress:  41 % - Creating initial tetrahedra
+Memory: 1372/2382 1690/2933
+----       Current Progress:  45 % - Respecting boundaries
+Memory: 1390/2382 1709/2933
+----       Current Progress:  47 % - Respecting boundaries
+Memory: 1406/2382 1726/2933
+------     Current Progress:  62 % - Improving element quality
+Memory: 1403/2382 1722/2933
+------     Current Progress:  63 % - Improving element quality
+Memory: 1403/2382 1724/2933
+------     Current Progress:  64 % - Improving element quality
+------     Current Progress:  65 % - Improving element quality
+Number of elements: 64478
+Minimum element quality: 0.0302
+---------- Current Progress: 100 % - Finalizing mesh
+Memory: 1351/2382 1667/2933
+    Mesh generated in 7.39 s.
+>>> [7/8] Running stationary structural solver...
+<---- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) -------------
+Started at Nov 13, 2026, 11:32:29 AM.
+Geometry shape function: Quadratic serendipity
+Running on Intel64 Family 6 Model 183 Stepping 1, GenuineIntel.
+Using 1 socket with 12 cores in total on Afz.
+Available memory: 32.51 GB.
+           Current Progress:   1 % - Compile Equations: Stationary 1
+Memory: 1482/2382 1773/2933
+           Current Progress:   5 % - Compile Equations: Stationary 1
+Memory: 1527/2382 1819/2933
+Time: 2 s.
+Physical memory: 1.53 GB
+Virtual memory: 1.82 GB
+Ended at Nov 13, 2026, 11:32:31 AM.
+----- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) ------------>
+<---- Dependent Variables 1 in Study 1/Solution 1 (sol1) -----------------------
+Started at Nov 13, 2026, 11:32:31 AM.
+           Current Progress:   5 % - Dependent Variables 1
+Memory: 1506/2382 1794/2933
+Solution time: 0 s.
+Physical memory: 1.51 GB
+Virtual memory: 1.79 GB
+Ended at Nov 13, 2026, 11:32:31 AM.
+----- Dependent Variables 1 in Study 1/Solution 1 (sol1) ---------------------->
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Started at Nov 13, 2026, 11:32:31 AM.
+Linear solver
+Number of degrees of freedom solved for: 360918 (plus 1 internal DOFs).
+--         Current Progress:  22 % - Assembling sparsity pattern
+Memory: 1730/2382 2058/2933
+---        Current Progress:  35 % - Assembling matrices
+Memory: 1981/2382 2315/2933
+---        Current Progress:  37 % - 
+Memory: 1981/2382 2330/2933
+Symmetric matrices found.
+Scales for dependent variables:
+Displacement Field (comp1.u): 1
+Orthonormal null-space function used.
+---        Current Progress:  37 % - Matrix factorization
+Memory: 2024/2382 2379/2933
+----       Current Progress:  46 % - Matrix factorization
+Memory: 2848/2848 4278/4278
+------     Current Progress:  67 % - Matrix factorization
+Memory: 3173/3173 4280/4280
+-------    Current Progress:  79 % - Matrix factorization
+Memory: 3377/3378 4288/4288
+--------   Current Progress:  84 % - Matrix factorization
+Memory: 3465/3465 4292/4292
+--------   Current Progress:  88 % - Matrix factorization
+Memory: 3520/3520 4294/4294
+---------  Current Progress:  90 % - Matrix factorization
+Memory: 3548/3548 4294/4294
+Iter      SolEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+   1        0.85   1.0000000        0.85    1    1    1  5.6e-12  4.4e-15
+---------- Current Progress: 100 % - Solving linear system
+Memory: 2596/3579 3093/4325
+Solution time: 6 s.
+Physical memory: 3.55 GB
+Virtual memory: 4.29 GB
+Ended at Nov 13, 2026, 11:32:38 AM.
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+    Solver converged in 9.04 s.
+>>> [8/8] Evaluating results and exporting to CSV...
+RAMPZONE 4405.551488877014 VOLUME 339.6320295199832
+>>> [SUCCESS] AS2U_screw completed in 22 seconds.
+    Model Model_AS2U_screw_5 cleared from memory.
+
+-------------------------------------------------------------
+ [1/2] STARTING SIMULATION: AS2U_screw
+-------------------------------------------------------------
+>>> [1/8] Creating component and geometry sequence...
+---------- Current Progress: 100 % - Updating selections
+Memory: 1407/3579 1735/4325
+>>> [2/8] Importing CAD: D:/MBSE/AS2U_screw.step
+           Current Progress:   0 % - Import 1
+Memory: 1419/3579 1746/4325
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2U_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:30:56+05:30
+Begin CAD File Read 'D:/MBSE/AS2U_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1736
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3868
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   696
+cartesian_point ..........................................:   12474
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10393
+edge_curve ...............................................:   5482
+edge_loop ................................................:   1856
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1736
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+Memory: 1445/3579 1773/4325
+--         Current Progress:  25 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2657
+vertex_point .............................................:   3630
+                                                             -------
+Total                                                         62204
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 1450/3579 1779/4325
+----       Current Progress:  42 % - Applying transforms
+Memory: 1453/3579 1782/4325
+-----      Current Progress:  50 % - Form Union
+Memory: 1454/3579 1783/4325
+---------- Current Progress: 100 % - Updating selections
+Memory: 1455/3579 1783/4325
+    Geometry imported and unioned in 3.49 s.
+>>> [3/8] Assigning material Ti-6Al-4V ELI...
+>>> [4/8] Configuring 3D Solid Mechanics physics...
+>>> [5/8] Locating boundary surfaces via coordinate box filters...
+    Tip fixed boundaries found: 2 | Head displacement boundaries found: 3
+>>> [6/8] Generating 3D tetrahedral mesh...
+Number of vertex elements: 3735
+           Current Progress:   1 % - Creating boundary mesh
+Memory: 1500/3579 1824/4325
+           Current Progress:   2 % - Creating boundary mesh
+Memory: 1504/3579 1827/4325
+           Current Progress:   5 % - Creating boundary mesh
+Memory: 1512/3579 1834/4325
+           Current Progress:   8 % - Analyzing domains
+Memory: 1522/3579 1846/4325
+-          Current Progress:  11 % - Adjusting boundary mesh
+Memory: 1531/3579 1854/4325
+-          Current Progress:  13 % - Adjusting boundary mesh
+Memory: 1535/3579 1859/4325
+-          Current Progress:  15 % - Adjusting boundary mesh
+Memory: 1536/3579 1864/4325
+--         Current Progress:  21 % - Creating boundary mesh
+Memory: 1531/3579 1854/4325
+--         Current Progress:  22 % - Creating boundary mesh
+Number of edge elements: 12118
+Number of boundary elements: 45370
+---------  Current Progress:  99 % - Finalizing mesh
+Memory: 1528/3579 1851/4325
+Number of elements: 99673
+Minimum element quality: 0.03334
+---------- Current Progress: 100 % - Finalizing mesh
+Memory: 1524/3579 1848/4325
+    Mesh generated in 8.51 s.
+>>> [7/8] Running stationary structural solver...
+<---- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) -------------
+Started at Nov 13, 2026, 11:32:53 AM.
+Geometry shape function: Quadratic serendipity
+Running on Intel64 Family 6 Model 183 Stepping 1, GenuineIntel.
+Using 1 socket with 12 cores in total on Afz.
+Available memory: 32.51 GB.
+           Current Progress:   1 % - Compile Equations: Stationary 1
+Memory: 1544/3579 1867/4325
+           Current Progress:   4 % - Compile Equations: Stationary 1
+Memory: 1586/3579 1911/4325
+           Current Progress:   5 % - Compile Equations: Stationary 1
+Memory: 1580/3579 1905/4325
+Time: 3 s.
+Physical memory: 1.6 GB
+Virtual memory: 1.92 GB
+Ended at Nov 13, 2026, 11:32:56 AM.
+----- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) ------------>
+<---- Dependent Variables 1 in Study 1/Solution 1 (sol1) -----------------------
+Started at Nov 13, 2026, 11:32:56 AM.
+           Current Progress:   5 % - Dependent Variables 1
+Memory: 1600/3579 1923/4325
+Solution time: 0 s.
+Physical memory: 1.6 GB
+Virtual memory: 1.92 GB
+Ended at Nov 13, 2026, 11:32:56 AM.
+----- Dependent Variables 1 in Study 1/Solution 1 (sol1) ---------------------->
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Started at Nov 13, 2026, 11:32:56 AM.
+Linear solver
+Number of degrees of freedom solved for: 535938 (plus 1 internal DOFs).
+--         Current Progress:  21 % - Assembling sparsity pattern
+Memory: 2030/3579 2375/4325
+--         Current Progress:  22 % - Assembling sparsity pattern
+Memory: 2052/3579 2375/4325
+---        Current Progress:  33 % - Assembling matrices
+Memory: 2345/3579 2670/4325
+---        Current Progress:  37 % - Assembling matrices
+Memory: 2328/3579 2652/4325
+---        Current Progress:  37 % - 
+Memory: 2345/3579 2711/4325
+Symmetric matrices found.
+Scales for dependent variables:
+Displacement Field (comp1.u): 1
+Orthonormal null-space function used.
+---        Current Progress:  37 % - Constraint handling
+Memory: 2238/3579 2608/4325
+---        Current Progress:  37 % - Matrix factorization
+Memory: 2159/3579 2621/4325
+----       Current Progress:  44 % - Matrix factorization
+Memory: 3653/3653 5794/5794
+-----      Current Progress:  50 % - Matrix factorization
+Memory: 3813/3813 5794/5794
+-----      Current Progress:  57 % - Matrix factorization
+Memory: 3993/3993 5794/5794
+------     Current Progress:  63 % - Matrix factorization
+Memory: 4151/4151 5794/5794
+------     Current Progress:  68 % - Matrix factorization
+Memory: 4281/4281 5794/5794
+-------    Current Progress:  72 % - Matrix factorization
+Memory: 4406/4406 5794/5794
+-------    Current Progress:  76 % - Matrix factorization
+Memory: 4517/4517 5795/5795
+--------   Current Progress:  80 % - Matrix factorization
+Memory: 4618/4618 5796/5796
+--------   Current Progress:  83 % - Matrix factorization
+Memory: 4694/4695 5797/5797
+--------   Current Progress:  85 % - Matrix factorization
+Memory: 4751/4751 5797/5797
+--------   Current Progress:  86 % - Matrix factorization
+Memory: 4762/4762 5797/5797
+--------   Current Progress:  88 % - Matrix factorization
+Memory: 4827/4827 5800/5800
+--------   Current Progress:  89 % - Matrix factorization
+Memory: 4850/4850 5800/5800
+---------  Current Progress:  90 % - Matrix factorization
+Memory: 4869/4869 5800/5800
+Iter      SolEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+---------- Current Progress: 100 % - Solving linear system
+Memory: 4889/4889 5816/5816
+   1        0.85   1.0000000        0.85    1    1    1  6.2e-12  5.2e-15
+Solution time: 15 s.
+Physical memory: 4.89 GB
+Virtual memory: 5.82 GB
+Ended at Nov 13, 2026, 11:33:11 AM.
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+    Solver converged in 18.41 s.
+>>> [8/8] Evaluating results and exporting to CSV...
+RAMPZONE 5828.011230625071 VOLUME 339.638746223813
+>>> [SUCCESS] AS2U_screw completed in 34 seconds.
+    Model Model_AS2U_screw_4 cleared from memory.
+
+-------------------------------------------------------------
+ [1/2] STARTING SIMULATION: AS2U_screw
+-------------------------------------------------------------
+>>> [1/8] Creating component and geometry sequence...
+---------- Current Progress: 100 % - Updating selections
+Memory: 1512/4889 1832/5816
+>>> [2/8] Importing CAD: D:/MBSE/AS2U_screw.step
+           Current Progress:   0 % - Import 1
+Memory: 1524/4889 1845/5816
+           Current Progress:   0 % - Importing STEP
+Memory: 1530/4889 1851/5816
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2U_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:30:56+05:30
+Begin CAD File Read 'D:/MBSE/AS2U_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1736
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3868
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   696
+cartesian_point ..........................................:   12474
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10393
+edge_curve ...............................................:   5482
+edge_loop ................................................:   1856
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1736
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+-          Current Progress:  17 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2657
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10964
+plane ....................................................:   1347
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2657
+vertex_point .............................................:   3630
+                                                             -------
+Total                                                         62204
+--         Current Progress:  25 % - Importing STEP
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 1537/4889 1860/5816
+---        Current Progress:  37 % - Applying transforms
+Memory: 1537/4889 1859/5816
+----       Current Progress:  42 % - Applying transforms
+Memory: 1538/4889 1860/5816
+-----      Current Progress:  50 % - Form Union
+Memory: 1539/4889 1861/5816
+---------- Current Progress: 100 % - Updating selections
+    Geometry imported and unioned in 4.36 s.
+>>> [3/8] Assigning material Ti-6Al-4V ELI...
+>>> [4/8] Configuring 3D Solid Mechanics physics...
+>>> [5/8] Locating boundary surfaces via coordinate box filters...
+    Tip fixed boundaries found: 2 | Head displacement boundaries found: 3
+>>> [6/8] Generating 3D tetrahedral mesh...
+Number of vertex elements: 3735
+           Current Progress:   0 % - Creating boundary mesh
+Memory: 1598/4889 1917/5816
+           Current Progress:   1 % - Creating boundary mesh
+Memory: 1599/4889 1918/5816
+           Current Progress:   4 % - Creating boundary mesh
+Memory: 1615/4889 1932/5816
+           Current Progress:   5 % - Analyzing domains
+Memory: 1628/4889 1944/5816
+           Current Progress:   7 % - Analyzing domains
+Memory: 1633/4889 1950/5816
+-          Current Progress:  10 % - Adjusting boundary mesh
+Memory: 1647/4889 1964/5816
+-          Current Progress:  11 % - Adjusting boundary mesh
+Memory: 1648/4889 1966/5816
+-          Current Progress:  12 % - Adjusting boundary mesh
+Memory: 1652/4889 1971/5816
+-          Current Progress:  13 % - Adjusting boundary mesh
+Memory: 1654/4889 1973/5816
+-          Current Progress:  14 % - Adjusting boundary mesh
+Memory: 1655/4889 1973/5816
+-          Current Progress:  15 % - Adjusting boundary mesh
+Memory: 1657/4889 1977/5816
+-          Current Progress:  19 % - Adjusting boundary mesh
+Memory: 1648/4889 1966/5816
+--         Current Progress:  21 % - Creating boundary mesh
+Memory: 1649/4889 1966/5816
+--         Current Progress:  22 % - Creating boundary mesh
+Memory: 1651/4889 1969/5816
+---        Current Progress:  30 % - Creating boundary mesh
+Memory: 1655/4889 1973/5816
+Number of edge elements: 15431
+Number of boundary elements: 69438
+---        Current Progress:  35 % - Meshing domains
+Memory: 1595/4889 1913/5816
+------     Current Progress:  64 % - Improving element quality
+Memory: 1555/4889 1877/5816
+---------  Current Progress:  99 % - Finalizing mesh
+Memory: 1566/4889 1887/5816
+Number of elements: 177161
+---------- Current Progress: 100 % - Finalizing mesh
+Memory: 1527/4889 1850/5816
+Minimum element quality: 0.1089
+    Mesh generated in 14.36 s.
+>>> [7/8] Running stationary structural solver...
+<---- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) -------------
+Started at Nov 13, 2026, 11:33:35 AM.
+Geometry shape function: Quadratic serendipity
+Running on Intel64 Family 6 Model 183 Stepping 1, GenuineIntel.
+Using 1 socket with 12 cores in total on Afz.
+Available memory: 32.51 GB.
+           Current Progress:   1 % - Compile Equations: Stationary 1
+Memory: 1649/4889 1967/5816
+           Current Progress:   5 % - Compile Equations: Stationary 1
+Memory: 1684/4889 2006/5816
+Time: 4 s.
+Physical memory: 1.83 GB
+Virtual memory: 2.15 GB
+Ended at Nov 13, 2026, 11:33:39 AM.
+----- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) ------------>
+<---- Dependent Variables 1 in Study 1/Solution 1 (sol1) -----------------------
+Started at Nov 13, 2026, 11:33:39 AM.
+           Current Progress:   5 % - Dependent Variables 1
+Memory: 1757/4889 2076/5816
+Solution time: 0 s.
+Physical memory: 1.78 GB
+Virtual memory: 2.1 GB
+Ended at Nov 13, 2026, 11:33:40 AM.
+----- Dependent Variables 1 in Study 1/Solution 1 (sol1) ---------------------->
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Started at Nov 13, 2026, 11:33:40 AM.
+           Current Progress:   9 % - Stationary Solver 1
+Memory: 1796/4889 2110/5816
+Linear solver
+Number of degrees of freedom solved for: 917472 (plus 1 internal DOFs).
+--         Current Progress:  20 % - Assembling sparsity pattern
+Memory: 1857/4889 2180/5816
+--         Current Progress:  21 % - Assembling sparsity pattern
+Memory: 2348/4889 2698/5816
+--         Current Progress:  22 % - Assembling sparsity pattern
+Memory: 2520/4889 2864/5816
+---        Current Progress:  32 % - Assembling matrices
+Memory: 3009/4889 3388/5816
+---        Current Progress:  34 % - Assembling matrices
+---        Current Progress:  36 % - Assembling matrices
+---        Current Progress:  37 % - Assembling matrices
+Memory: 3007/4889 3386/5816
+---        Current Progress:  37 % - 
+Memory: 2981/4889 3426/5816
+Symmetric matrices found.
+Scales for dependent variables:
+Displacement Field (comp1.u): 1
+Orthonormal null-space function used.
+---        Current Progress:  37 % - Constraint handling
+Memory: 2796/4889 3233/5816
+---        Current Progress:  37 % - Matrix factorization
+Memory: 2630/4889 3253/5816
+----       Current Progress:  40 % - Matrix factorization
+Memory: 5228/5262 9122/9122
+----       Current Progress:  46 % - Matrix factorization
+Memory: 5510/5510 9122/9122
+-----      Current Progress:  50 % - Matrix factorization
+Memory: 5712/5712 9122/9122
+-----      Current Progress:  53 % - Matrix factorization
+Memory: 5886/5886 9122/9122
+-----      Current Progress:  56 % - Matrix factorization
+Memory: 6024/6024 9122/9122
+-----      Current Progress:  59 % - Matrix factorization
+Memory: 6168/6168 9122/9122
+------     Current Progress:  62 % - Matrix factorization
+Memory: 6297/6297 9122/9122
+------     Current Progress:  64 % - Matrix factorization
+Memory: 6425/6425 9122/9122
+------     Current Progress:  66 % - Matrix factorization
+Memory: 6544/6544 9122/9122
+------     Current Progress:  69 % - Matrix factorization
+Memory: 6647/6647 9122/9122
+-------    Current Progress:  70 % - Matrix factorization
+Memory: 6737/6737 9122/9122
+-------    Current Progress:  72 % - Matrix factorization
+Memory: 6832/6832 9122/9122
+-------    Current Progress:  74 % - Matrix factorization
+Memory: 6917/6917 9122/9122
+-------    Current Progress:  76 % - Matrix factorization
+Memory: 7016/7016 9122/9122
+-------    Current Progress:  77 % - Matrix factorization
+Memory: 7090/7090 9122/9122
+-------    Current Progress:  78 % - Matrix factorization
+Memory: 7161/7161 9122/9122
+--------   Current Progress:  80 % - Matrix factorization
+Memory: 7228/7228 9123/9123
+--------   Current Progress:  81 % - Matrix factorization
+Memory: 7303/7303 9123/9123
+--------   Current Progress:  82 % - Matrix factorization
+Memory: 7371/7371 9123/9123
+--------   Current Progress:  83 % - Matrix factorization
+Memory: 7433/7433 9123/9123
+--------   Current Progress:  84 % - Matrix factorization
+Memory: 7482/7482 9124/9124
+--------   Current Progress:  85 % - Matrix factorization
+Memory: 7518/7518 9125/9125
+--------   Current Progress:  86 % - Matrix factorization
+Memory: 7548/7548 9128/9128
+--------   Current Progress:  87 % - Matrix factorization
+Memory: 7567/7567 9128/9128
+--------   Current Progress:  88 % - Matrix factorization
+Memory: 7629/7629 9128/9128
+--------   Current Progress:  89 % - Matrix factorization
+Memory: 7704/7704 9130/9130
+---------  Current Progress:  90 % - Matrix factorization
+Memory: 7758/7758 9130/9130
+Iter      SolEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+---------- Current Progress: 100 % - Solving linear system
+Memory: 7834/7834 9189/9189
+   1        0.87   1.0000000        0.87    1    1    1  5.7e-12  5.7e-15
+Solution time: 29 s.
+Physical memory: 7.83 GB
+Virtual memory: 9.19 GB
+Ended at Nov 13, 2026, 11:34:09 AM.
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+    Solver converged in 34.45 s.
+>>> [8/8] Evaluating results and exporting to CSV...
+RAMPZONE 6116.328949587004 VOLUME 339.642893248704
+>>> [SUCCESS] AS2U_screw completed in 59 seconds.
+    Model Model_AS2U_screw_3 cleared from memory.
+
+-------------------------------------------------------------
+ [2/2] STARTING SIMULATION: AS2G_screw
+-------------------------------------------------------------
+>>> [1/8] Creating component and geometry sequence...
+---------- Current Progress: 100 % - Updating selections
+Memory: 1663/7834 1987/9189
+>>> [2/8] Importing CAD: D:/MBSE/AS2G_screw.step
+           Current Progress:   0 % - Import 1
+Memory: 1667/7834 1990/9189
+           Current Progress:   0 % - Importing STEP
+Memory: 1670/7834 1993/9189
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2G_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:29:45+05:30
+Begin CAD File Read 'D:/MBSE/AS2G_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1712
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3844
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   684
+cartesian_point ..........................................:   12354
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10309
+edge_curve ...............................................:   5434
+edge_loop ................................................:   1832
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1712
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+--         Current Progress:  25 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2621
+vertex_point .............................................:   3606
+                                                             -------
+Total                                                         61628
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 1676/7834 2003/9189
+----       Current Progress:  47 % - Checking part 3 of 3
+Memory: 1677/7834 2002/9189
+-----      Current Progress:  50 % - Form Union
+Memory: 1678/7834 2003/9189
+-----      Current Progress:  50 % - Performing Boolean operation
+Memory: 1684/7834 2010/9189
+---------- Current Progress: 100 % - Updating selections
+Memory: 1688/7834 2014/9189
+    Geometry imported and unioned in 5.74 s.
+>>> [3/8] Assigning material Ti-6Al-4V ELI...
+>>> [4/8] Configuring 3D Solid Mechanics physics...
+>>> [5/8] Locating boundary surfaces via coordinate box filters...
+           Current Progress:   0 % - Creating visualization mesh
+Memory: 1739/7834 2063/9189
+---------- Current Progress: 100 % - Creating visualization mesh
+Memory: 1730/7834 2053/9189
+    Tip fixed boundaries found: 2 | Head displacement boundaries found: 3
+>>> [6/8] Generating 3D tetrahedral mesh...
+Number of vertex elements: 3711
+           Current Progress:   0 % - Creating boundary mesh
+Memory: 1733/7834 2056/9189
+           Current Progress:   1 % - Creating boundary mesh
+Memory: 1742/7834 2066/9189
+           Current Progress:   5 % - Creating boundary mesh
+Memory: 1778/7834 2102/9189
+           Current Progress:   7 % - Analyzing domains
+Memory: 1785/7834 2109/9189
+-          Current Progress:  11 % - Adjusting boundary mesh
+Memory: 1790/7834 2114/9189
+-          Current Progress:  13 % - Adjusting boundary mesh
+Memory: 1795/7834 2119/9189
+--         Current Progress:  21 % - Creating boundary mesh
+Memory: 1793/7834 2117/9189
+--         Current Progress:  22 % - Creating boundary mesh
+Number of edge elements: 8980
+Number of boundary elements: 25866
+---        Current Progress:  35 % - Creating boundary mesh
+Memory: 1797/7834 2121/9189
+---        Current Progress:  39 % - Creating initial tetrahedra
+Memory: 1792/7834 2115/9189
+----       Current Progress:  44 % - Creating initial tetrahedra
+Memory: 1797/7834 2121/9189
+----       Current Progress:  45 % - Respecting boundaries
+Memory: 1800/7834 2124/9189
+----       Current Progress:  46 % - Respecting boundaries
+Memory: 1802/7834 2127/9189
+------     Current Progress:  62 % - Improving element quality
+Memory: 1798/7834 2124/9189
+------     Current Progress:  63 % - Improving element quality
+Memory: 1798/7834 2125/9189
+------     Current Progress:  64 % - Improving element quality
+------     Current Progress:  65 % - Improving element quality
+Number of elements: 48957
+Minimum element quality: 0.001127
+Warning: Low minimum element quality
+---------- Current Progress: 100 % - Finalizing mesh
+Memory: 1792/7834 2116/9189
+    Mesh generated in 9.47 s.
+>>> [7/8] Running stationary structural solver...
+<---- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) -------------
+Started at Nov 13, 2026, 11:34:32 AM.
+Geometry shape function: Quadratic serendipity
+Running on Intel64 Family 6 Model 183 Stepping 1, GenuineIntel.
+Using 1 socket with 12 cores in total on Afz.
+Available memory: 32.51 GB.
+           Current Progress:   1 % - Compile Equations: Stationary 1
+Memory: 1806/7834 2130/9189
+           Current Progress:   5 % - Compile Equations: Stationary 1
+Memory: 1817/7834 2142/9189
+Time: 3 s.
+Physical memory: 1.84 GB
+Virtual memory: 2.17 GB
+Ended at Nov 13, 2026, 11:34:34 AM.
+----- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) ------------>
+<---- Dependent Variables 1 in Study 1/Solution 1 (sol1) -----------------------
+Started at Nov 13, 2026, 11:34:34 AM.
+           Current Progress:   5 % - Dependent Variables 1
+Memory: 1822/7834 2145/9189
+Solution time: 0 s.
+Physical memory: 1.83 GB
+Virtual memory: 2.15 GB
+Ended at Nov 13, 2026, 11:34:34 AM.
+----- Dependent Variables 1 in Study 1/Solution 1 (sol1) ---------------------->
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Started at Nov 13, 2026, 11:34:34 AM.
+Linear solver
+Number of degrees of freedom solved for: 275733 (plus 1 internal DOFs).
+--         Current Progress:  20 % - Assembling sparsity pattern
+Memory: 2078/7834 2431/9189
+--         Current Progress:  21 % - Assembling sparsity pattern
+Memory: 2121/7834 2455/9189
+---        Current Progress:  30 % - Assembling matrices
+Memory: 2231/7834 2573/9189
+---        Current Progress:  34 % - Assembling matrices
+Memory: 2226/7834 2564/9189
+---        Current Progress:  37 % - 
+Memory: 2245/7834 2596/9189
+Symmetric matrices found.
+Scales for dependent variables:
+Displacement Field (comp1.u): 1
+Orthonormal null-space function used.
+---        Current Progress:  37 % - Constraint handling
+Memory: 2146/7834 2543/9189
+---        Current Progress:  37 % - Matrix factorization
+Memory: 2133/7834 2548/9189
+----       Current Progress:  42 % - Matrix factorization
+Memory: 2884/7834 4038/9189
+------     Current Progress:  62 % - Matrix factorization
+Memory: 3104/7834 4038/9189
+-------    Current Progress:  76 % - Matrix factorization
+Memory: 3238/7834 4038/9189
+--------   Current Progress:  84 % - Matrix factorization
+Memory: 3336/7834 4038/9189
+--------   Current Progress:  86 % - Matrix factorization
+Memory: 3350/7834 4038/9189
+--------   Current Progress:  88 % - Matrix factorization
+Memory: 3387/7834 4038/9189
+Iter      SolEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+---------- Current Progress: 100 % - Solving linear system
+Memory: 3411/7834 4055/9189
+   1        0.85   1.0000000        0.85    1    1    1  5.9e-12  5.5e-15
+Solution time: 8 s.
+Physical memory: 3.41 GB
+Virtual memory: 4.05 GB
+Ended at Nov 13, 2026, 11:34:42 AM.
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+    Solver converged in 11.13 s.
+>>> [8/8] Evaluating results and exporting to CSV...
+RAMPZONE 5984.662635767715 VOLUME 343.5819869027417
+>>> [SUCCESS] AS2G_screw completed in 29 seconds.
+    Model Model_AS2G_screw_6 cleared from memory.
+
+-------------------------------------------------------------
+ [2/2] STARTING SIMULATION: AS2G_screw
+-------------------------------------------------------------
+>>> [1/8] Creating component and geometry sequence...
+---------- Current Progress: 100 % - Updating selections
+Memory: 1723/7834 2044/9189
+>>> [2/8] Importing CAD: D:/MBSE/AS2G_screw.step
+           Current Progress:   0 % - Import 1
+           Current Progress:   0 % - Importing STEP
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2G_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:29:45+05:30
+Begin CAD File Read 'D:/MBSE/AS2G_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1712
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3844
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   684
+cartesian_point ..........................................:   12354
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10309
+edge_curve ...............................................:   5434
+edge_loop ................................................:   1832
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1712
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2621
+vertex_point .............................................:   3606
+                                                             -------
+Total                                                         61628
+--         Current Progress:  25 % - Importing STEP
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 1723/7834 2045/9189
+---        Current Progress:  37 % - Applying transforms
+Memory: 1723/7834 2044/9189
+----       Current Progress:  42 % - Applying transforms
+-----      Current Progress:  50 % - Form Union
+---------- Current Progress: 100 % - Updating selections
+    Geometry imported and unioned in 4.02 s.
+>>> [3/8] Assigning material Ti-6Al-4V ELI...
+>>> [4/8] Configuring 3D Solid Mechanics physics...
+>>> [5/8] Locating boundary surfaces via coordinate box filters...
+    Tip fixed boundaries found: 2 | Head displacement boundaries found: 3
+>>> [6/8] Generating 3D tetrahedral mesh...
+Number of vertex elements: 3711
+           Current Progress:   0 % - Creating boundary mesh
+Memory: 1728/7834 2048/9189
+           Current Progress:   1 % - Creating boundary mesh
+Memory: 1724/7834 2043/9189
+           Current Progress:   5 % - Creating boundary mesh
+Memory: 1725/7834 2045/9189
+           Current Progress:   6 % - Analyzing domains
+-          Current Progress:  10 % - Adjusting boundary mesh
+Memory: 1729/7834 2048/9189
+-          Current Progress:  11 % - Adjusting boundary mesh
+Memory: 1730/7834 2049/9189
+-          Current Progress:  14 % - Adjusting boundary mesh
+Memory: 1733/7834 2053/9189
+-          Current Progress:  16 % - Adjusting boundary mesh
+Memory: 1735/7834 2055/9189
+--         Current Progress:  22 % - Creating boundary mesh
+Memory: 1730/7834 2049/9189
+Number of edge elements: 10620
+Number of boundary elements: 37726
+-----      Current Progress:  52 % - Inserting interior points
+Memory: 1730/7834 2050/9189
+---------  Current Progress:  99 % - Finalizing mesh
+Memory: 1731/7834 2052/9189
+Number of elements: 82499
+Minimum element quality: 0.02068
+---------- Current Progress: 100 % - Finalizing mesh
+Memory: 1730/7834 2050/9189
+    Mesh generated in 12.82 s.
+>>> [7/8] Running stationary structural solver...
+<---- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) -------------
+Started at Nov 13, 2026, 11:35:03 AM.
+Geometry shape function: Quadratic serendipity
+Running on Intel64 Family 6 Model 183 Stepping 1, GenuineIntel.
+Using 1 socket with 12 cores in total on Afz.
+Available memory: 32.51 GB.
+           Current Progress:   1 % - Compile Equations: Stationary 1
+Memory: 1734/7834 2055/9189
+           Current Progress:   4 % - Compile Equations: Stationary 1
+Memory: 1747/7834 2068/9189
+           Current Progress:   5 % - Compile Equations: Stationary 1
+Memory: 1772/7834 2097/9189
+Time: 3 s.
+Physical memory: 1.84 GB
+Virtual memory: 2.16 GB
+Ended at Nov 13, 2026, 11:35:06 AM.
+----- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) ------------>
+<---- Dependent Variables 1 in Study 1/Solution 1 (sol1) -----------------------
+Started at Nov 13, 2026, 11:35:06 AM.
+           Current Progress:   5 % - Dependent Variables 1
+Memory: 1765/7834 2085/9189
+Solution time: 0 s.
+Physical memory: 1.76 GB
+Virtual memory: 2.09 GB
+Ended at Nov 13, 2026, 11:35:06 AM.
+----- Dependent Variables 1 in Study 1/Solution 1 (sol1) ---------------------->
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Started at Nov 13, 2026, 11:35:06 AM.
+Linear solver
+Number of degrees of freedom solved for: 445422 (plus 1 internal DOFs).
+--         Current Progress:  20 % - Assembling sparsity pattern
+Memory: 1776/7834 2100/9189
+--         Current Progress:  22 % - Assembling sparsity pattern
+Memory: 2041/7834 2403/9189
+--         Current Progress:  29 % - Assembling matrices
+Memory: 2353/7834 2682/9189
+---        Current Progress:  32 % - Assembling matrices
+---        Current Progress:  37 % - Assembling matrices
+Memory: 2338/7834 2667/9189
+---        Current Progress:  37 % - 
+Memory: 2352/7834 2694/9189
+Symmetric matrices found.
+Scales for dependent variables:
+Displacement Field (comp1.u): 1
+Orthonormal null-space function used.
+---        Current Progress:  37 % - Constraint handling
+Memory: 2280/7834 2624/9189
+---        Current Progress:  37 % - Matrix factorization
+Memory: 2158/7834 2496/9189
+----       Current Progress:  44 % - Matrix factorization
+Memory: 3472/7834 5244/9189
+-----      Current Progress:  54 % - Matrix factorization
+Memory: 3674/7834 5244/9189
+------     Current Progress:  61 % - Matrix factorization
+Memory: 3819/7834 5244/9189
+------     Current Progress:  67 % - Matrix factorization
+Memory: 3948/7834 5244/9189
+-------    Current Progress:  72 % - Matrix factorization
+Memory: 4062/7834 5244/9189
+-------    Current Progress:  76 % - Matrix factorization
+Memory: 4152/7834 5244/9189
+--------   Current Progress:  80 % - Matrix factorization
+Memory: 4216/7834 5244/9189
+--------   Current Progress:  82 % - Matrix factorization
+Memory: 4269/7834 5244/9189
+--------   Current Progress:  89 % - Matrix factorization
+Memory: 4411/7834 5244/9189
+---------  Current Progress:  90 % - Matrix factorization
+Memory: 4427/7834 5244/9189
+Iter      SolEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+---------- Current Progress: 100 % - Solving linear system
+Memory: 4471/7834 5281/9189
+   1        0.85   1.0000000        0.85    1    1    1    2e-12    5e-15
+Solution time: 13 s.
+Physical memory: 4.47 GB
+Virtual memory: 5.28 GB
+Ended at Nov 13, 2026, 11:35:19 AM.
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+    Solver converged in 16.84 s.
+>>> [8/8] Evaluating results and exporting to CSV...
+RAMPZONE 6645.778080921981 VOLUME 343.60089381762054
+>>> [SUCCESS] AS2G_screw completed in 37 seconds.
+    Model Model_AS2G_screw_5 cleared from memory.
+
+-------------------------------------------------------------
+ [2/2] STARTING SIMULATION: AS2G_screw
+-------------------------------------------------------------
+>>> [1/8] Creating component and geometry sequence...
+---------- Current Progress: 100 % - Updating selections
+Memory: 1757/7834 2071/9189
+>>> [2/8] Importing CAD: D:/MBSE/AS2G_screw.step
+           Current Progress:   0 % - Import 1
+           Current Progress:   0 % - Importing STEP
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2G_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:29:45+05:30
+Begin CAD File Read 'D:/MBSE/AS2G_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1712
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3844
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   684
+cartesian_point ..........................................:   12354
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10309
+edge_curve ...............................................:   5434
+edge_loop ................................................:   1832
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1712
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+--         Current Progress:  25 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2621
+vertex_point .............................................:   3606
+                                                             -------
+Total                                                         61628
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 1757/7834 2072/9189
+---        Current Progress:  37 % - Applying transforms
+Memory: 1757/7834 2071/9189
+----       Current Progress:  42 % - Applying transforms
+-----      Current Progress:  50 % - Form Union
+---------- Current Progress: 100 % - Updating selections
+    Geometry imported and unioned in 4.67 s.
+>>> [3/8] Assigning material Ti-6Al-4V ELI...
+>>> [4/8] Configuring 3D Solid Mechanics physics...
+>>> [5/8] Locating boundary surfaces via coordinate box filters...
+    Tip fixed boundaries found: 2 | Head displacement boundaries found: 3
+>>> [6/8] Generating 3D tetrahedral mesh...
+Number of vertex elements: 3711
+           Current Progress:   0 % - Creating boundary mesh
+Memory: 1758/7834 2072/9189
+           Current Progress:   1 % - Creating boundary mesh
+           Current Progress:   5 % - Creating boundary mesh
+Memory: 1759/7834 2072/9189
+           Current Progress:   6 % - Analyzing domains
+           Current Progress:   7 % - Analyzing domains
+Memory: 1764/7834 2078/9189
+-          Current Progress:  10 % - Adjusting boundary mesh
+Memory: 1772/7834 2086/9189
+-          Current Progress:  11 % - Adjusting boundary mesh
+Memory: 1776/7834 2091/9189
+-          Current Progress:  13 % - Adjusting boundary mesh
+Memory: 1778/7834 2094/9189
+-          Current Progress:  15 % - Adjusting boundary mesh
+Memory: 1780/7834 2095/9189
+-          Current Progress:  19 % - Adjusting boundary mesh
+Memory: 1774/7834 2088/9189
+--         Current Progress:  22 % - Creating boundary mesh
+Number of edge elements: 12520
+Number of boundary elements: 48624
+---        Current Progress:  35 % - Creating initial tetrahedra
+Memory: 1775/7834 2090/9189
+---        Current Progress:  37 % - Creating initial tetrahedra
+Memory: 1778/7834 2092/9189
+----       Current Progress:  41 % - Creating initial tetrahedra
+Memory: 1781/7834 2095/9189
+----       Current Progress:  44 % - Creating initial tetrahedra
+Memory: 1790/7834 2108/9189
+----       Current Progress:  45 % - Respecting boundaries
+Memory: 1792/7834 2110/9189
+----       Current Progress:  46 % - Respecting boundaries
+Memory: 1803/7834 2123/9189
+----       Current Progress:  47 % - Respecting boundaries
+Memory: 1791/7834 2109/9189
+-----      Current Progress:  59 % - Inserting interior points
+Memory: 1797/7834 2138/9189
+------     Current Progress:  62 % - Improving element quality
+Memory: 1789/7834 2108/9189
+------     Current Progress:  64 % - Improving element quality
+Memory: 1789/7834 2111/9189
+------     Current Progress:  65 % - Improving element quality
+---------  Current Progress:  99 % - Finalizing mesh
+Number of elements: 124419
+Minimum element quality: 0.05297
+---------- Current Progress: 100 % - Finalizing mesh
+Memory: 1778/7834 2093/9189
+    Mesh generated in 14.90 s.
+>>> [7/8] Running stationary structural solver...
+<---- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) -------------
+Started at Nov 13, 2026, 11:35:43 AM.
+Geometry shape function: Quadratic serendipity
+Running on Intel64 Family 6 Model 183 Stepping 1, GenuineIntel.
+Using 1 socket with 12 cores in total on Afz.
+Available memory: 32.51 GB.
+           Current Progress:   1 % - Compile Equations: Stationary 1
+Memory: 1790/7834 2104/9189
+           Current Progress:   5 % - Compile Equations: Stationary 1
+Memory: 1829/7834 2149/9189
+Time: 2 s.
+Physical memory: 1.86 GB
+Virtual memory: 2.19 GB
+Ended at Nov 13, 2026, 11:35:45 AM.
+----- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) ------------>
+<---- Dependent Variables 1 in Study 1/Solution 1 (sol1) -----------------------
+Started at Nov 13, 2026, 11:35:45 AM.
+           Current Progress:   5 % - Dependent Variables 1
+Memory: 1899/7834 2234/9189
+Solution time: 0 s.
+Physical memory: 1.9 GB
+Virtual memory: 2.23 GB
+Ended at Nov 13, 2026, 11:35:45 AM.
+----- Dependent Variables 1 in Study 1/Solution 1 (sol1) ---------------------->
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Started at Nov 13, 2026, 11:35:45 AM.
+Linear solver
+Number of degrees of freedom solved for: 645585 (plus 1 internal DOFs).
+-          Current Progress:  19 % - Assembling sparsity pattern
+Memory: 1972/7834 2305/9189
+--         Current Progress:  21 % - Assembling sparsity pattern
+Memory: 2284/7834 2605/9189
+--         Current Progress:  24 % - Assembling matrices
+Memory: 2812/7834 3150/9189
+--         Current Progress:  29 % - Assembling matrices
+---        Current Progress:  33 % - Assembling matrices
+Memory: 2787/7834 3125/9189
+---        Current Progress:  37 % - 
+Memory: 2804/7834 3165/9189
+Symmetric matrices found.
+Scales for dependent variables:
+Displacement Field (comp1.u): 1
+Orthonormal null-space function used.
+---        Current Progress:  37 % - Constraint handling
+Memory: 2696/7834 3052/9189
+---        Current Progress:  37 % - Matrix factorization
+Memory: 2514/7834 2860/9189
+----       Current Progress:  46 % - Matrix factorization
+Memory: 4553/7834 7099/9189
+-----      Current Progress:  53 % - Matrix factorization
+Memory: 4819/7834 7099/9189
+-----      Current Progress:  59 % - Matrix factorization
+Memory: 5001/7834 7099/9189
+------     Current Progress:  64 % - Matrix factorization
+Memory: 5168/7834 7099/9189
+------     Current Progress:  68 % - Matrix factorization
+Memory: 5308/7834 7099/9189
+-------    Current Progress:  71 % - Matrix factorization
+Memory: 5440/7834 7099/9189
+-------    Current Progress:  75 % - Matrix factorization
+Memory: 5554/7834 7099/9189
+-------    Current Progress:  78 % - Matrix factorization
+Memory: 5666/7834 7099/9189
+--------   Current Progress:  81 % - Matrix factorization
+Memory: 5766/7834 7099/9189
+--------   Current Progress:  83 % - Matrix factorization
+Memory: 5837/7834 7099/9189
+--------   Current Progress:  84 % - Matrix factorization
+Memory: 5887/7834 7099/9189
+--------   Current Progress:  89 % - Matrix factorization
+Memory: 6030/7834 7099/9189
+---------  Current Progress:  90 % - Matrix factorization
+Memory: 6064/7834 7099/9189
+Iter      SolEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+---------- Current Progress: 100 % - Solving linear system
+Memory: 6134/7834 7153/9189
+   1        0.85   1.0000000        0.85    1    1    1  5.1e-12  5.5e-15
+Solution time: 15 s.
+Physical memory: 6.13 GB
+Virtual memory: 7.15 GB
+Ended at Nov 13, 2026, 11:36:00 AM.
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+    Solver converged in 17.85 s.
+>>> [8/8] Evaluating results and exporting to CSV...
+RAMPZONE 7196.042300120825 VOLUME 343.6070789437931
+>>> [SUCCESS] AS2G_screw completed in 40 seconds.
+    Model Model_AS2G_screw_4 cleared from memory.
+
+-------------------------------------------------------------
+ [2/2] STARTING SIMULATION: AS2G_screw
+-------------------------------------------------------------
+>>> [1/8] Creating component and geometry sequence...
+---------- Current Progress: 100 % - Updating selections
+Memory: 1894/7834 2204/9189
+>>> [2/8] Importing CAD: D:/MBSE/AS2G_screw.step
+           Current Progress:   0 % - Import 1
+           Current Progress:   0 % - Importing STEP
+Header : Author::Unknown
+Header : Authorization::Unknown
+Header : Description::Unknown
+Header : File Name::AS2G_screw.step
+Header : Implementation Level::2;1
+Header : Organization::Unknown
+Header : Originating System::Autodesk Translation Framework v15.17.0.0
+Header : Preprocessor Version::ST-DEVELOPER v20.2
+Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }
+Header : Time Stamp::2026-11-13T11:29:45+05:30
+Begin CAD File Read 'D:/MBSE/AS2G_screw.step'
+  
+      Summary of STEP Entities
+  
+Entity Type                                                   Count
+-----------                                                   ------
+advanced_brep_shape_representation .......................:   1
+advanced_face ............................................:   1712
+application_context ......................................:   1
+application_protocol_definition ..........................:   1
+axis2_placement_3d .......................................:   3844
+b_spline_curve_with_knots ................................:   1
+b_spline_curve_with_knots_and_rational_b_spline_curve ....:   684
+cartesian_point ..........................................:   12354
+circle ...................................................:   641
+closed_shell .............................................:   3
+colour_rgb ...............................................:   1
+conical_surface ..........................................:   209
+context_dependent_shape_representation ...................:   1
+cylindrical_surface ......................................:   180
+derived_unit .............................................:   1
+derived_unit_element .....................................:   2
+descriptive_representation_item ..........................:   1
+direction ................................................:   10309
+edge_curve ...............................................:   5434
+edge_loop ................................................:   1832
+ellipse ..................................................:   1488
+face_bound ...............................................:   120
+face_outer_bound .........................................:   1712
+fill_area_style ..........................................:   1
+fill_area_style_colour ...................................:   1
+geometrically_bounded_surface_shape_representation .......:   1
+geometric_representation_context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relat...:   1
+geometric_representation_
+-          Current Progress:  13 % - Importing STEP
+context_and_global_uncertainty_a :   3
+geometric_set ............................................:   1
+item_defined_transformation ..............................:   1
+length_unit_and_si_unit ..................................:   2
+line .....................................................:   2621
+manifold_solid_brep ......................................:   3
+mass_unit_and_si_unit ....................................:   1
+measure_representation_item ..............................:   1
+mechanical_design_geometric_presentation_representation ..:   1
+next_assembly_usage_occurrence ...........................:   1
+oriented_edge ............................................:   10868
+plane ....................................................:   1323
+plane_angle_unit_and_si_unit .............................:   1
+presentation_style_assignment ............................:   1
+product ..................................................:   2
+product_context ..........................................:   1
+product_definition .......................................:   2
+product_definition_context ...............................:   1
+product_definition_formation .............................:   2
+product_definition_shape .................................:   3
+product_related_product_category .........................:   2
+property_definition ......................................:   2
+property_definition_representation .......................:   2
+representation ...........................................:   2
+representation_relationship_with_transformation_and_shape :   1
+shape_definition_representation ..........................:   2
+shape_representation .....................................:   2
+shape_representation_relationship ........................:   2
+si_unit_and_solid_angle_unit .............................:   1
+styled_item ..............................................:   4
+surface_side_style .......................................:   1
+surface_style_fill_area ..................................:   1
+surface_style_usage ......................................:   1
+trimmed_curve ............................................:   1
+uncertainty_measure_with_unit ............................:   3
+vector ...................................................:   2621
+vertex_point .............................................:   3606
+                                                             -------
+Total                                                         61628
+--         Current Progress:  25 % - Importing STEP
+---        Current Progress:  37 % - Cleaning part 3 of 3
+Memory: 1895/7834 2205/9189
+---        Current Progress:  37 % - Applying transforms
+Memory: 1895/7834 2204/9189
+----       Current Progress:  42 % - Applying transforms
+-----      Current Progress:  50 % - Form Union
+---------- Current Progress: 100 % - Updating selections
+    Geometry imported and unioned in 3.61 s.
+>>> [3/8] Assigning material Ti-6Al-4V ELI...
+>>> [4/8] Configuring 3D Solid Mechanics physics...
+>>> [5/8] Locating boundary surfaces via coordinate box filters...
+    Tip fixed boundaries found: 2 | Head displacement boundaries found: 3
+>>> [6/8] Generating 3D tetrahedral mesh...
+Number of vertex elements: 3711
+           Current Progress:   1 % - Creating boundary mesh
+Memory: 1897/7834 2205/9189
+           Current Progress:   3 % - Creating boundary mesh
+Memory: 1898/7834 2205/9189
+           Current Progress:   6 % - Analyzing domains
+Memory: 1905/7834 2213/9189
+           Current Progress:   8 % - Analyzing domains
+Memory: 1913/7834 2221/9189
+-          Current Progress:  11 % - Adjusting boundary mesh
+Memory: 1922/7834 2231/9189
+-          Current Progress:  12 % - Adjusting boundary mesh
+Memory: 1926/7834 2236/9189
+-          Current Progress:  13 % - Adjusting boundary mesh
+Memory: 1928/7834 2238/9189
+-          Current Progress:  14 % - Adjusting boundary mesh
+Memory: 1929/7834 2239/9189
+-          Current Progress:  15 % - Adjusting boundary mesh
+Memory: 1931/7834 2241/9189
+--         Current Progress:  21 % - Creating boundary mesh
+Memory: 1922/7834 2231/9189
+--         Current Progress:  22 % - Creating boundary mesh
+Memory: 1923/7834 2232/9189
+--         Current Progress:  23 % - Creating boundary mesh
+--         Current Progress:  24 % - Creating boundary mesh
+--         Current Progress:  25 % - Creating boundary mesh
+--         Current Progress:  26 % - Creating boundary mesh
+--         Current Progress:  27 % - Creating boundary mesh
+--         Current Progress:  28 % - Creating boundary mesh
+--         Current Progress:  29 % - Creating boundary mesh
+---        Current Progress:  30 % - Creating boundary mesh
+---        Current Progress:  31 % - Creating boundary mesh
+Memory: 1924/7834 2233/9189
+---        Current Progress:  35 % - Creating boundary mesh
+Memory: 1925/7834 2234/9189
+Number of edge elements: 15861
+Number of boundary elements: 73054
+---        Current Progress:  37 % - Creating initial tetrahedra
+Memory: 1926/7834 2236/9189
+----       Current Progress:  41 % - Creating initial tetrahedra
+Memory: 1934/7834 2242/9189
+----       Current Progress:  44 % - Creating initial tetrahedra
+Memory: 1939/7834 2248/9189
+----       Current Progress:  45 % - Respecting boundaries
+Memory: 1946/7834 2261/9189
+----       Current Progress:  47 % - Respecting boundaries
+Memory: 1972/7834 2291/9189
+-----      Current Progress:  53 % - Inserting interior points
+Memory: 1968/7834 2323/9189
+------     Current Progress:  60 % - Inserting interior points
+Memory: 1975/7834 2323/9189
+------     Current Progress:  62 % - Improving element quality
+Memory: 1960/7834 2276/9189
+------     Current Progress:  63 % - Improving element quality
+Memory: 1960/7834 2281/9189
+------     Current Progress:  64 % - Improving element quality
+Memory: 1960/7834 2282/9189
+------     Current Progress:  65 % - Improving element quality
+Memory: 1960/7834 2281/9189
+Number of elements: 212687
+Minimum element quality: 0.1019
+---------- Current Progress: 100 % - Finalizing mesh
+Memory: 1948/7834 2257/9189
+    Mesh generated in 12.08 s.
+>>> [7/8] Running stationary structural solver...
+<---- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) -------------
+Started at Nov 13, 2026, 11:36:19 AM.
+Geometry shape function: Quadratic serendipity
+Running on Intel64 Family 6 Model 183 Stepping 1, GenuineIntel.
+Using 1 socket with 12 cores in total on Afz.
+Available memory: 32.51 GB.
+           Current Progress:   1 % - Compile Equations: Stationary 1
+Memory: 1963/7834 2275/9189
+           Current Progress:   5 % - Compile Equations: Stationary 1
+Memory: 1989/7834 2299/9189
+Time: 3 s.
+Physical memory: 2.1 GB
+Virtual memory: 2.42 GB
+Ended at Nov 13, 2026, 11:36:22 AM.
+----- Compile Equations: Stationary 1 in Study 1/Solution 1 (sol1) ------------>
+<---- Dependent Variables 1 in Study 1/Solution 1 (sol1) -----------------------
+Started at Nov 13, 2026, 11:36:22 AM.
+           Current Progress:   5 % - Dependent Variables 1
+Memory: 2086/7834 2404/9189
+Solution time: 0 s.
+Physical memory: 2.12 GB
+Virtual memory: 2.44 GB
+Ended at Nov 13, 2026, 11:36:22 AM.
+----- Dependent Variables 1 in Study 1/Solution 1 (sol1) ---------------------->
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Started at Nov 13, 2026, 11:36:22 AM.
+           Current Progress:   9 % - Stationary Solver 1
+Memory: 2125/7834 2442/9189
+Linear solver
+Number of degrees of freedom solved for: 1071036 (plus 1 internal DOFs).
+--         Current Progress:  20 % - Assembling sparsity pattern
+Memory: 2610/7834 2989/9189
+--         Current Progress:  21 % - Assembling sparsity pattern
+Memory: 2865/7834 3233/9189
+--         Current Progress:  24 % - Assembling matrices
+Memory: 3520/7834 3916/9189
+--         Current Progress:  27 % - Assembling matrices
+---        Current Progress:  31 % - Assembling matrices
+---        Current Progress:  34 % - Assembling matrices
+Memory: 3483/7834 3879/9189
+---        Current Progress:  37 % - 
+Memory: 3495/7834 3899/9189
+Symmetric matrices found.
+Scales for dependent variables:
+Displacement Field (comp1.u): 1
+Orthonormal null-space function used.
+---        Current Progress:  37 % - Constraint handling
+Memory: 3665/7834 4301/9189
+---        Current Progress:  37 % - Matrix factorization
+Memory: 2951/7834 3331/9189
+----       Current Progress:  40 % - Matrix factorization
+Memory: 6116/7834 10908/10908
+----       Current Progress:  45 % - Matrix factorization
+Memory: 6389/7834 10908/10908
+----       Current Progress:  48 % - Matrix factorization
+Memory: 6618/7834 10908/10908
+-----      Current Progress:  51 % - Matrix factorization
+Memory: 6823/7834 10908/10908
+-----      Current Progress:  54 % - Matrix factorization
+Memory: 7012/7834 10908/10908
+-----      Current Progress:  57 % - Matrix factorization
+Memory: 7184/7834 10908/10908
+-----      Current Progress:  59 % - Matrix factorization
+Memory: 7352/7834 10908/10908
+------     Current Progress:  62 % - Matrix factorization
+Memory: 7507/7834 10908/10908
+------     Current Progress:  64 % - Matrix factorization
+Memory: 7658/7834 10908/10908
+------     Current Progress:  66 % - Matrix factorization
+Memory: 7798/7834 10908/10908
+------     Current Progress:  68 % - Matrix factorization
+Memory: 7934/7934 10908/10908
+-------    Current Progress:  70 % - Matrix factorization
+Memory: 8057/8057 10908/10908
+-------    Current Progress:  71 % - Matrix factorization
+Memory: 8179/8179 10908/10908
+-------    Current Progress:  74 % - Matrix factorization
+Memory: 8292/8292 10908/10908
+-------    Current Progress:  75 % - Matrix factorization
+Memory: 8391/8391 10908/10908
+-------    Current Progress:  77 % - Matrix factorization
+Memory: 8496/8496 10908/10908
+-------    Current Progress:  78 % - Matrix factorization
+Memory: 8588/8588 10908/10908
+-------    Current Progress:  79 % - Matrix factorization
+Memory: 8665/8665 10908/10908
+--------   Current Progress:  80 % - Matrix factorization
+Memory: 8731/8731 10908/10908
+--------   Current Progress:  81 % - Matrix factorization
+Memory: 8795/8795 10908/10908
+--------   Current Progress:  82 % - Matrix factorization
+Memory: 8850/8850 10908/10908
+--------   Current Progress:  89 % - Matrix factorization
+Memory: 9333/9333 10912/10912
+---------  Current Progress:  90 % - Matrix factorization
+Memory: 9390/9390 10912/10912
+Iter      SolEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+---------- Current Progress: 100 % - Solving linear system
+Memory: 9419/9482 10929/10987
+   1        0.86   1.0000000        0.86    1    1    1    5e-12  6.2e-15
+Solution time: 25 s.
+Physical memory: 9.5 GB
+Virtual memory: 11 GB
+Ended at Nov 13, 2026, 11:36:47 AM.
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+    Solver converged in 28.19 s.
+>>> [8/8] Evaluating results and exporting to CSV...
+RAMPZONE 7769.759871052785 VOLUME 343.6114682971762
+>>> [SUCCESS] AS2G_screw completed in 50 seconds.
+    Model Model_AS2G_screw_3 cleared from memory.
+
+=============================================================
+ GradedRun — All 3 simulations finished!
+ Results saved in: D:/MBSE/
+=============================================================
+Class run time: 302 s.
+Total time: 302 s.
+---------- Current Progress: 100 % - Done
+Memory: 2033/9500 2380/11001

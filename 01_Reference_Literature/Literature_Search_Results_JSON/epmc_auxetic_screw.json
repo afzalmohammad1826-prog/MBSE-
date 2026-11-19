@@ -1,0 +1,4990 @@
+{
+  "hitCount": 56,
+  "nextCursorMark": "AoIIQCnMkSg0ODIxMTc1MQ==",
+  "results": [
+    {
+      "id": "42737182",
+      "source": "MED",
+      "pmid": "42737182",
+      "pmcid": "PMC13568431",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13568431"
+        ]
+      },
+      "doi": "10.3390/polym18172173",
+      "title": "Compressive Deformation, Damage Evolution, and Energy Absorption of 3D-Printed PLA and Short-Carbon-Fiber-Reinforced PLA Auxetic Metamaterials.",
+      "authorString": "Luo L, Qiu S, Li M, Wang L, Liu Z.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Luo L",
+            "lastName": "Luo",
+            "firstName": "Lan",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4786-3471"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Key Laboratory of Science and Technology on Advanced Composites in Special Environments, Harbin Institute of Technology (HIT), Harbin 150080, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Qiu S",
+            "lastName": "Qiu",
+            "firstName": "Shidian",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Guangzhou Future Additive Manufacturing Research Institute, Guangzhou 510150, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li M",
+            "lastName": "Li",
+            "firstName": "Maokai",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Key Laboratory of Science and Technology on Advanced Composites in Special Environments, Harbin Institute of Technology (HIT), Harbin 150080, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang L",
+            "lastName": "Wang",
+            "firstName": "Lianchao",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9383-2823"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Materials Science, Polytechnic University of Madrid, 28040 Madrid, Spain."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu Z",
+            "lastName": "Liu",
+            "firstName": "Zhengxian",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Key Laboratory of Science and Technology on Advanced Composites in Special Environments, Harbin Institute of Technology (HIT), Harbin 150080, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9383-2823"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4786-3471"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "17",
+        "volume": "18",
+        "journalIssueId": 4261570,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Polymers (Basel)",
+          "title": "Polymers",
+          "essn": "2073-4360",
+          "issn": "2073-4360",
+          "nlmid": "101545357",
+          "isoabbreviation": "Polymers (Basel)"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "2173",
+      "abstractText": "Auxetic mechanical metamaterials convert axial compression into lateral contraction, providing deformation modes that are attractive for lightweight energy absorbers. Here, fused deposition modeling was used to fabricate polylactic acid (PLA) and 10 wt% short-carbon-fiber-reinforced PLA (CF/PLA) auxetic metamaterials with arrow, re-entrant hexagonal, star-shaped, and chiral rotating topologies. Thermal analysis, tensile testing, and three-point bending first established the effect of carbon-fiber addition on the printable matrix. Quasi-static compression experiments were then combined with finite-element simulations using pressure-dependent plasticity and ductile damage to resolve topology-dependent collapse and energy partition. Adding 10 wt% short carbon fibers increased the tensile modulus from 2.33 to 3.72 GPa and raised the plateau stresses of the auxetic structures by about 50%. The star-shaped CF/PLA metamaterial showed the highest specific energy absorption (approximately 4.7 J/g), whereas the chiral rotating topology showed the largest relative improvement, exceeding 130%. Fiber reinforcement improved stiffness and load transfer but promoted stress localization at hinges, re-entrant corners, and ligament junctions. These findings elucidate the material-topology trade-off between stiffness enhancement and localized embrittlement, offering practical guidelines for designing crashworthy 3D-printed composite metamaterials.",
+      "affiliation": "National Key Laboratory of Science and Technology on Advanced Composites in Special Environments, Harbin Institute of Technology (HIT), Harbin 150080, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Natural Science Foundation of Heilongjiang Province",
+            "grantId": "LH2023A005",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Natural Science Foundation of China",
+            "grantId": "12502182",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Postdoctoral Program for Innovative Talents",
+            "grantId": "BX20230481",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Natural Science Foundation of China",
+            "grantId": "12402184",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "polylactic acid",
+          "Energy Absorption",
+          "Fused Deposition Modeling",
+          "Auxetic Metamaterial",
+          "Short-Carbon-Fiber Composite"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/polym18172173"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13568431"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13568431?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-09-15",
+      "dateOfCreation": "2026-09-15",
+      "dateOfRevision": "2026-09-16",
+      "electronicPublicationDate": "2026-09-06",
+      "firstPublicationDate": "2026-09-06",
+      "firstIndexDate": "2026-09-15",
+      "fullTextReceivedDate": "2026-09-13",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42500946",
+      "source": "MED",
+      "pmid": "42500946",
+      "pmcid": "PMC13403429",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13403429"
+        ]
+      },
+      "doi": "10.1080/07853890.2026.2700085",
+      "title": "Bone defect repair materials after bone tumour resection: from structural substitutes to biofunctionalized synergistic therapy.",
+      "authorString": "Ou H, Liu F, Wang W.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ou H",
+            "lastName": "Ou",
+            "firstName": "Hongyu",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-3551-6317"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopaedic Oncology, Liaoning Cancer Hospital & Institute, Shenyang, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu F",
+            "lastName": "Liu",
+            "firstName": "Fei",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopaedic Oncology, Liaoning Cancer Hospital & Institute, Shenyang, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang W",
+            "lastName": "Wang",
+            "firstName": "Wei",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopaedic Oncology, Liaoning Cancer Hospital & Institute, Shenyang, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0002-3551-6317"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "58",
+        "journalIssueId": 4076777,
+        "dateOfPublication": "2026 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Ann Med",
+          "title": "Annals of medicine",
+          "essn": "1365-2060",
+          "issn": "0785-3890",
+          "nlmid": "8906388",
+          "isoabbreviation": "Ann Med"
+        },
+        "printPublicationDate": "2026-12-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "2700085",
+      "abstractText": "<h4>Background</h4>Critical-sized bone defects following malignant tumour resection remain among the most difficult challenges in orthopaedic oncology. Conventional substitutes such as autografts or polymethyl methacrylate (PMMA) provide initial stability but often fail to ensure durable integration or prevent recurrence. This review aims to summarize recent progress in bone defect reconstruction materials, with particular attention to strategies that unite structural reliability with biological functionality.<h4>Discussion</h4>Over the past decade, repair materials have evolved from inert fillers to multifunctional scaffolds capable of combining load-bearing support with local therapeutic action. Current designs integrate chemotherapy, photothermal hyperthermia or magnetic hyperthermia, immunomodulation, antibacterial function, and angiogenic-osteogenic cues. Intelligent drug delivery systems and additive manufacturing enable patient-specific, stimuli-responsive implants, while early clinical use of antibiotic-loaded cements and custom-printed prostheses demonstrates translational potential. Nevertheless, most evidence remains preclinical and heterogeneous, with inconsistent tumour, infection, regeneration, and safety endpoints; long-term safety, manufacturing reproducibility, cost-effectiveness, and regulatory acceptance remain unresolved.<h4>Conclusions</h4>Reconstruction after bone tumour resection is entering a new era in which implants are expected not only to restore anatomy and stability but also to actively suppress tumour recurrence and foster regeneration. Multifunctional and patient-tailored scaffolds hold promise to redefine limb-salvage surgery, provided that future work delivers robust clinical validation and scalable manufacturing pathways.",
+      "affiliation": "Department of Orthopaedic Oncology, Liaoning Cancer Hospital & Institute, Shenyang, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bone Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bone Substitutes",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "TU",
+                  "qualifierName": "therapeutic use"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Drug Delivery Systems",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MT",
+                  "qualifierName": "methods"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Bone Regeneration"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tissue Scaffolds"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Additive Manufacturing",
+          "Bone Tumour Resection",
+          "Bone Defect Repair",
+          "Angiogenesis\u2013osteogenesis",
+          "Biofunctional Scaffold",
+          "Intelligent Drug Delivery"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Bone Substitutes",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1080/07853890.2026.2700085"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13403429"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13403429?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-07-25",
+      "dateOfCreation": "2026-07-25",
+      "dateOfRevision": "2026-09-03",
+      "electronicPublicationDate": "2026-07-25",
+      "firstPublicationDate": "2026-07-25",
+      "firstIndexDate": "2026-07-30",
+      "fullTextReceivedDate": "2026-09-04",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "40841547",
+      "source": "MED",
+      "pmid": "40841547",
+      "pmcid": "PMC12580219",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12580219"
+        ]
+      },
+      "doi": "10.1111/os.70159",
+      "title": "Clinical Application of 3D-Printed Custom Hemipelvic Prostheses With Re-Entrant Chiral Structure in Reconstruction After Pelvic Tumor Resection.",
+      "authorString": "Tan L, Li Y, Hu X, Wang Y, Zhang X, Liu X, Luo Y, Zhou Y, Tu C, Yang X, Min L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tan L",
+            "lastName": "Tan",
+            "firstName": "Linyun",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-0021-6840"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Y",
+            "lastName": "Li",
+            "firstName": "Ye",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics Surgery, West China Hospital, Sichuan University/West China School of Nursing, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hu X",
+            "lastName": "Hu",
+            "firstName": "Xin",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang Y",
+            "lastName": "Wang",
+            "firstName": "Yitian",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang X",
+            "lastName": "Zhang",
+            "firstName": "Xiaolu",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics Surgery, West China Hospital, Sichuan University/West China School of Nursing, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu X",
+            "lastName": "Liu",
+            "firstName": "Xiaoyan",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6172-6222"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics Surgery, West China Hospital, Sichuan University/West China School of Nursing, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Luo Y",
+            "lastName": "Luo",
+            "firstName": "Yi",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou Y",
+            "lastName": "Zhou",
+            "firstName": "Yong",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tu C",
+            "lastName": "Tu",
+            "firstName": "Chongqi",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang X",
+            "lastName": "Yang",
+            "firstName": "Xiao",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7248-8218"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Engineering Research Center for Biomaterials, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Provincial Engineering Research Center for Biomaterials Genome of Sichuan, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Min L",
+            "lastName": "Min",
+            "firstName": "Li",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, Sichuan, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7248-8218"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6172-6222"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0002-0021-6840"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "11",
+        "volume": "17",
+        "journalIssueId": 4040677,
+        "dateOfPublication": "2025 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Orthop Surg",
+          "title": "Orthopaedic surgery",
+          "essn": "1757-7861",
+          "issn": "1757-7853",
+          "nlmid": "101501666",
+          "isoabbreviation": "Orthop Surg"
+        },
+        "printPublicationDate": "2025-11-01"
+      },
+      "pubYear": "2025",
+      "pageInfo": "3067-3077",
+      "abstractText": "<h4>Objectives</h4>Pelvic reconstruction with conventional 3D-printed prostheses faces a critical trade-off, where achieving sufficient porosity for optimal bone ingrowth often compromises essential mechanical stability. To address this challenge, this study evaluates the clinical outcomes of 3D-printed hemipelvic prostheses incorporating re-entrant chiral structure (RCS), a novel negative Poisson's ratio design, in patients undergoing pelvic reconstruction following tumor resection.<h4>Methods</h4>A retrospective analysis was conducted on 15 patients (eight females and seven males; mean age: 39.3\u2009\u00b1\u200911.7\u2009years) with pelvic malignancies who underwent reconstruction using 3D-printed hemipelvic prostheses incorporating RCS between March 2018 and June 2023. The diagnoses included osteosarcoma (n\u2009=\u20098), Ewing's sarcoma (n\u2009=\u20093), chondrosarcoma (n\u2009=\u20092), and high-grade soft tissue sarcoma (n\u2009=\u20092). All patients were staged as IIB according to the Enneking system, except for one case of Ewing's sarcoma (stage III). Neoadjuvant chemotherapy (four cycles) was administered to six osteosarcoma patients, and one Ewing's sarcoma patient received six cycles, while other patients proceeded directly to surgery. Patient outcomes were systematically evaluated through oncological status, functional performance (MSTS-93 score), pain assessment (VAS score), surgical parameters, complications, and radiographic analysis using Tomosynthesis Shimadzu Metal Artifact Reduction Technology (T-SMART).<h4>Results</h4>At the latest follow-up (44.5\u2009\u00b1\u20099.4\u2009months), 13 patients (86.7%) remained disease-free; one patient (6.7%) experienced local recurrence requiring revision surgery, and one patient (6.7%) died of metastatic complications at 32\u2009months post-surgery. Functional outcomes showed significant improvement, with mean MSTS-93 scores increasing from 14.5\u2009\u00b1\u20091.1 preoperatively to 25.8\u2009\u00b1\u20091.3 at final follow-up (p\u2009<\u20090.001). Pain control was satisfactory, with VAS scores decreasing from 5.5\u2009\u00b1\u20090.6 to 1.5\u2009\u00b1\u20090.5 (p\u2009<\u20090.001). The mean surgical duration was 289.3\u2009\u00b1\u200930.4\u2009min, with an average intraoperative blood loss of 3540\u2009\u00b1\u2009621.5\u2009mL. Early complications included delayed wound healing in three cases (20%), successfully managed with wound care protocols and VAC therapy. One patient (6.7%) developed deep prosthetic infection at 14\u2009months post-surgery, necessitating a two-stage revision procedure. No mechanical failures, aseptic loosening, or prosthesis fractures were observed during the follow-up period. Radiographic analysis demonstrated progressive bone ingrowth into the RCS porous regions in all cases, with no signs of osteolysis or implant migration in the remaining prostheses.<h4>Conclusion</h4>D-printed custom hemipelvic prostheses with RCS offer an effective solution for pelvic reconstruction by achieving an optimal balance between mechanical stability and biological integration, leading to promising clinical outcomes.",
+      "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Sichuan Science and Technology Agency",
+            "grantId": "2022NSFSC0845",
+            "orderIn": 0
+          },
+          {
+            "agency": "Noncommunicable Chronic Diseases-National Science and Technology Major Project",
+            "grantId": "2024ZD0525806",
+            "orderIn": 0
+          },
+          {
+            "agency": "Sichuan Province Science and Technology Support Program",
+            "grantId": "2024NSFSC0568",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Key Research and Development Program of China",
+            "grantId": "2023YFE0126900",
+            "orderIn": 0
+          },
+          {
+            "agency": "Sichuan Provincial Science and Technology Support Program",
+            "grantId": "2024NSFSC0568",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Pelvic Bones",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bone Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Pelvic Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Retrospective Studies"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Prosthesis Design"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Prostheses and Implants"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Printing, Three-Dimensional"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Plastic Surgery Procedures",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MT",
+                  "qualifierName": "methods"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Pelvic Reconstruction",
+          "Negative Poisson's Ratio",
+          "Early Clinical Outcomes",
+          "Re\u2010entrant Chiral Structure",
+          "3D\u2010printed Prosthesis"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/os.70159"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12580219"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12580219?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2025-11-02",
+      "dateOfCreation": "2025-08-21",
+      "dateOfRevision": "2025-11-05",
+      "electronicPublicationDate": "2025-08-21",
+      "firstPublicationDate": "2025-08-21",
+      "firstIndexDate": "2025-08-23",
+      "fullTextReceivedDate": "2025-12-04",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "40310728",
+      "source": "MED",
+      "pmid": "40310728",
+      "pmcid": "PMC12146138",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12146138"
+        ]
+      },
+      "doi": "10.1111/os.70040",
+      "title": "Clinical Application of 3D-Printed Custom Hemipelvic Prostheses With Negative Poisson's Ratio Porous Structures in Reconstruction After Resection of Pelvic Malignant Tumors.",
+      "authorString": "Hu X, Li C, Tang X, Wang Y, Luo Y, Zhou Y, Tu C, Yang X, Min L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Hu X",
+            "lastName": "Hu",
+            "firstName": "Xin",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li C",
+            "lastName": "Li",
+            "firstName": "Chuang",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Operating Room, West China Hospital, Sichuan University/West China School of Nursing, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tang X",
+            "lastName": "Tang",
+            "firstName": "Xiaodi",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang Y",
+            "lastName": "Wang",
+            "firstName": "Yitian",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Luo Y",
+            "lastName": "Luo",
+            "firstName": "Yi",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou Y",
+            "lastName": "Zhou",
+            "firstName": "Yong",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tu C",
+            "lastName": "Tu",
+            "firstName": "Chongqi",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5273-7256"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang X",
+            "lastName": "Yang",
+            "firstName": "Xiao",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Engineering Research Center for Biomaterials, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Provincial Engineering Research Center for Biomaterials Genome of Sichuan, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Min L",
+            "lastName": "Min",
+            "firstName": "Li",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1751-5479"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5273-7256"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1751-5479"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "6",
+        "volume": "17",
+        "journalIssueId": 3958721,
+        "dateOfPublication": "2025 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Orthop Surg",
+          "title": "Orthopaedic surgery",
+          "essn": "1757-7861",
+          "issn": "1757-7853",
+          "nlmid": "101501666",
+          "isoabbreviation": "Orthop Surg"
+        },
+        "printPublicationDate": "2025-06-01"
+      },
+      "pubYear": "2025",
+      "pageInfo": "1691-1701",
+      "abstractText": "<h4>Objectives</h4>Pelvic bone tumor resection and reconstruction present significant challenges due to complex anatomy and weight-bearing demands. 3D-printed hemipelvic prostheses, incorporating customized osteotomy guides and porous structures, offer a promising solution for enhancing osseointegration. This study evaluates the long-term outcomes of 3D-printed custom hemipelvic reconstruction with a focus on the integration of auxetic biomaterials with a negative Poisson's ratio to optimize mechanical properties.<h4>Methods</h4>A retrospective analysis was conducted on 12 patients with primary pelvic malignancies who underwent reconstruction using 3D-printed hemipelvic prostheses between January 2018 and May 2023. Follow-up duration was 48\u2009months (range, 29-64\u2009months) Oncological, functional, surgical, pain control, and radiographic outcomes were assessed.<h4>Results</h4>At the latest follow-up, 8 patients (66.7%) were disease-free, 3 (25%) had disease progression, and 1 (8.3%) died from metastatic complications. Functional outcomes improved significantly, with the MSTS-93 score increasing from 15 (range, 12-17) to 26 (range, 21-29). Pain scores decreased from 5 (range, 4-7) to 1 (range, 0-2). The median surgical duration was 270\u2009min (range, 150-560\u2009min), with intraoperative blood loss averaging 3200\u2009mL (range, 1900-6300\u2009mL). Complications included poor wound healing in 2 patients (16.7%), managed with VAC drainage. No mechanical failures, loosening, or fractures occurred. Accurate osteotomy, prosthesis implantation, and screw fixation were achieved. Successful osseointegration was observed in all cases, with no signs of bone absorption or osteolysis.<h4>Conclusions</h4>3D-printed custom hemipelvic prostheses with auxetic biomaterials offer an effective solution for pelvic reconstruction, providing promising oncological, functional, and radiographic outcomes. These findings support the use of 3D printing in complex pelvic defect reconstruction, optimizing both osteointegration and mechanical strength.",
+      "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "National Key Research and Development Program of China",
+            "grantId": "2023YFE0126900",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Science and Technology Major Project",
+            "grantId": "2024ZD0525806",
+            "orderIn": 0
+          },
+          {
+            "agency": "Sichuan Science and Technology Agency",
+            "grantId": "2022NSFSC0845",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Key Research and Development Program of China",
+            "grantId": "2023YFB3813002",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Pelvic Bones",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bone Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Pelvic Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Retrospective Studies"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Prosthesis Design"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Prostheses and Implants"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Porosity"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Young Adult"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Printing, Three-Dimensional"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Plastic Surgery Procedures",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MT",
+                  "qualifierName": "methods"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Osteosarcoma",
+          "Prostheses",
+          "Hemipelvectomy",
+          "3d\u2010Printed"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/os.70040"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12146138"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12146138?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2025-06-09",
+      "dateOfCreation": "2025-05-01",
+      "dateOfRevision": "2025-06-11",
+      "electronicPublicationDate": "2025-05-01",
+      "firstPublicationDate": "2025-05-01",
+      "firstIndexDate": "2025-05-02",
+      "fullTextReceivedDate": "2025-11-27",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "38961661",
+      "source": "MED",
+      "pmid": "38961661",
+      "pmcid": "PMC11293933",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11293933"
+        ]
+      },
+      "doi": "10.1111/os.14142",
+      "title": "Auxetic Biomedical Metamaterials for Orthopedic Surgery Applications: A Comprehensive Review.",
+      "authorString": "Sun M, Hu X, Tian L, Yang X, Min L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Sun M",
+            "lastName": "Sun",
+            "firstName": "Minghao",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hu X",
+            "lastName": "Hu",
+            "firstName": "Xin",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tian L",
+            "lastName": "Tian",
+            "firstName": "Leilei",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anesthesiology, West China Hospital, Sichuan University/West China School of Nursing, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang X",
+            "lastName": "Yang",
+            "firstName": "Xiao",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7248-8218"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Engineering Research Center for Biomaterials, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Provincial Engineering Research Center for Biomaterials Genome of Sichuan, Sichuan University, Chengdu, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Min L",
+            "lastName": "Min",
+            "firstName": "Li",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5035-1672"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China."
+                },
+                {
+                  "affiliation": "Model Worker and Craftsman Talent Innovation Workshop of Sichuan Province, Chengdu, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7248-8218"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5035-1672"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "8",
+        "volume": "16",
+        "journalIssueId": 3811013,
+        "dateOfPublication": "2024 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Orthop Surg",
+          "title": "Orthopaedic surgery",
+          "essn": "1757-7861",
+          "issn": "1757-7853",
+          "nlmid": "101501666",
+          "isoabbreviation": "Orthop Surg"
+        },
+        "printPublicationDate": "2024-08-01"
+      },
+      "pubYear": "2024",
+      "pageInfo": "1801-1815",
+      "abstractText": "Poisson's ratio in auxetic materials shifts from typically positive to negative, causing lateral expansion during axial tension. This scale-independent characteristic, originating from tailored architectures, exhibits specific physical properties, including energy adsorption, shear resistance, and fracture resistance. These metamaterials demonstrate exotic mechanical properties with potential applications in several engineering fields, but biomedical applications seem to be one of the most relevant, with an increasing number of articles published in recent years, which present opportunities ranging from cellular repair to organ reconstruction with outstanding mechanical performance, mechanical conduction, and biological activity compared with traditional biomedical metamaterials. Therefore, focusing on understanding the potential of these structures and promoting theoretical and experimental investigations into the benefits of their unique mechanical properties is necessary for achieving high-performance biomedical applications. Considering the demand for advanced biomaterial implants in surgical technology and the profound advancement of additive manufacturing technology that are particularly relevant to fabricating complex and customizable auxetic mechanical metamaterials, this review focuses on the fundamental geometric configuration and unique physical properties of negative Poisson's ratio materials, then categorizes and summarizes auxetic material applications across some surgical departments, revealing efficacy in joint surgery, spinal surgery, trauma surgery, and sports medicine contexts. Additionally, it emphasizes the substantial potential of auxetic materials as innovative biomedical solutions in orthopedics and demonstrates the significant potential for comprehensive surgical application in the future.",
+      "affiliation": "Department of Orthopedic Surgery and Orthopedic Research Institute, West China Hospital, Sichuan University, Chengdu, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "The Health Commission of Sichuan Province",
+            "grantId": "ZH2024-901",
+            "orderIn": 0
+          },
+          {
+            "agency": "Sichuan Science and Technology Program",
+            "grantId": "2023ZYD0110",
+            "orderIn": 0
+          },
+          {
+            "agency": "Sichuan Science and Technology Agency",
+            "grantId": "2022NSFSC0845",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Key Research and Development Program of China",
+            "grantId": "2023YFB3813002,2023YFE0126900",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Biocompatible Materials",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "TU",
+                  "qualifierName": "therapeutic use"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Orthopedic Procedures",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MT",
+                  "qualifierName": "methods"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Surgery",
+          "Orthopedics",
+          "Negative Poisson's Ratio",
+          "Auxetic Biomedical Metamaterials"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Biocompatible Materials",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/os.14142"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11293933"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11293933?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 11,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2024-08-01",
+      "dateOfCreation": "2024-07-04",
+      "dateOfRevision": "2026-09-23",
+      "electronicPublicationDate": "2024-07-03",
+      "firstPublicationDate": "2024-07-03",
+      "firstIndexDate": "2024-07-04",
+      "fullTextReceivedDate": "2025-02-04",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42738179",
+      "source": "MED",
+      "pmid": "42738179",
+      "pmcid": "PMC13567172",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13567172"
+        ]
+      },
+      "doi": "10.3390/ma19173743",
+      "title": "Advances and Applications of 3D Printing and Additive Manufacturing: Current Progress, Challenges, and Future Outlook.",
+      "authorString": "Jiang D, Shen H, Huang A.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Jiang D",
+            "lastName": "Jiang",
+            "firstName": "Derui",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5135-6096"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Paediatrics, The University of Melbourne, Melbourne, VIC 3052, Australia."
+                },
+                {
+                  "affiliation": "Murdoch Children's Research Institute, Parkville, VIC 3052, Australia."
+                },
+                {
+                  "affiliation": "Commonwealth Scientific and Industrial Research Organisation, Melbourne, VIC 3168, Australia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shen H",
+            "lastName": "Shen",
+            "firstName": "Haopeng",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3823-9442"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Commonwealth Scientific and Industrial Research Organisation, Melbourne, VIC 3168, Australia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang A",
+            "lastName": "Huang",
+            "firstName": "Aijun",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Materials Science and Engineering, Monash University, Melbourne, VIC 3800, Australia."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3823-9442"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5135-6096"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "17",
+        "volume": "19",
+        "journalIssueId": 4261585,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Materials (Basel)",
+          "title": "Materials (Basel, Switzerland)",
+          "essn": "1996-1944",
+          "issn": "1996-1944",
+          "nlmid": "101555929",
+          "isoabbreviation": "Materials (Basel)"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "3743",
+      "abstractText": "Additive manufacturing (AM) has evolved from a rapid-prototyping tool into a family of digitally driven manufacturing technologies capable of producing complex, lightweight, functionally graded, and highly customizable components [...].",
+      "affiliation": "Department of Paediatrics, The University of Melbourne, Melbourne, VIC 3052, Australia.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Editorial"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/ma19173743"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13567172"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13567172?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-09-15",
+      "dateOfCreation": "2026-09-15",
+      "dateOfRevision": "2026-09-16",
+      "electronicPublicationDate": "2026-09-03",
+      "firstPublicationDate": "2026-09-03",
+      "firstIndexDate": "2026-09-15",
+      "fullTextReceivedDate": "2026-09-13",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42796162",
+      "source": "MED",
+      "pmid": "42796162",
+      "pmcid": "PMC13609608",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13609608"
+        ]
+      },
+      "doi": "10.3390/mi17091043",
+      "title": "Research Progress on the Structure and Properties of Medical Bone Implants Based on Additive Manufacturing.",
+      "authorString": "Yu H, Tong Y, Gao B, Wang F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yu H",
+            "lastName": "Yu",
+            "firstName": "Hongtao",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, 242 Hospital, Harbin 150066, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tong Y",
+            "lastName": "Tong",
+            "firstName": "Yanquan",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0009-7492-5376"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical and Power Engineering, Harbin University of Science and Technology, Harbin 150080, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao B",
+            "lastName": "Gao",
+            "firstName": "Bingwei",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical and Power Engineering, Harbin University of Science and Technology, Harbin 150080, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang F",
+            "lastName": "Wang",
+            "firstName": "Feng",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, 242 Hospital, Harbin 150066, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0009-7492-5376"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "9",
+        "volume": "17",
+        "journalIssueId": 4270515,
+        "dateOfPublication": "2026 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Micromachines (Basel)",
+          "title": "Micromachines",
+          "essn": "2072-666X",
+          "issn": "2072-666X",
+          "nlmid": "101640903",
+          "isoabbreviation": "Micromachines (Basel)"
+        },
+        "printPublicationDate": "2026-08-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "1043",
+      "abstractText": "Conventional medical bone implants exhibit severe mechanical mismatch with native bone, which easily induces adverse outcomes including stress shielding and implant loosening. Additive manufacturing (AM) provides a novel strategy to fabricate patient-specific implants with complex geometric architectures. Based on the additive manufacturing of medical bone implants, this paper summarizes the design criteria, structural types, design methods and performance control mechanisms, and deeply analyzes the influence mechanism of structural design on elastic modulus matching, fatigue performance, osseointegration and wear resistance. The research shows that the elastic modulus of implants can be effectively matched to that of native bone and osseointegration can be promoted by accurately regulating the porosity, pore size and topological configuration. The present work provides theoretical guidance for the structural optimization design and clinical translation of high-performance bone implants.",
+      "affiliation": "Department of Radiology, 242 Hospital, Harbin 150066, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Genertec Medical Scientific Research Fund",
+            "grantId": "TYYLKYJJ-2025-037",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Mechanical properties",
+          "Osseointegration",
+          "Additive Manufacturing",
+          "Porous Structures",
+          "Bone Implants"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/mi17091043"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13609608"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13609608?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-09-26",
+      "dateOfCreation": "2026-09-26",
+      "dateOfRevision": "2026-09-29",
+      "electronicPublicationDate": "2026-08-31",
+      "firstPublicationDate": "2026-08-31",
+      "firstIndexDate": "2026-09-28",
+      "fullTextReceivedDate": "2026-09-25",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "39370588",
+      "source": "MED",
+      "pmid": "39370588",
+      "pmcid": "PMC11586834",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11586834"
+        ]
+      },
+      "doi": "10.1002/adma.202408082",
+      "title": "Blueprints of Architected Materials: A Guide to Metamaterial Design for Tissue Engineering.",
+      "authorString": "Kalogeropoulou M, Kracher A, Fucile P, Mih\u0103il\u0103 SM, Moroni L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kalogeropoulou M",
+            "lastName": "Kalogeropoulou",
+            "firstName": "Maria",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1084-5766"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Complex Tissue Regeneration Department, MERLN Institute for Technology-Inspired Regenerative Medicine, Maastricht University, Maastricht, 6229 ER, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kracher A",
+            "lastName": "Kracher",
+            "firstName": "Anna",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Pharmacology, Department of Pharmaceutical Sciences, Utrecht Institute for Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, Utrecht, 3584 CG, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fucile P",
+            "lastName": "Fucile",
+            "firstName": "Pierpaolo",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3775-4837"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Complex Tissue Regeneration Department, MERLN Institute for Technology-Inspired Regenerative Medicine, Maastricht University, Maastricht, 6229 ER, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mih\u0103il\u0103 SM",
+            "lastName": "Mih\u0103il\u0103",
+            "firstName": "Silvia M",
+            "initials": "SM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Pharmacology, Department of Pharmaceutical Sciences, Utrecht Institute for Pharmaceutical Sciences, Utrecht University, Universiteitsweg 99, Utrecht, 3584 CG, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Moroni L",
+            "lastName": "Moroni",
+            "firstName": "Lorenzo",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1298-6025"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Complex Tissue Regeneration Department, MERLN Institute for Technology-Inspired Regenerative Medicine, Maastricht University, Maastricht, 6229 ER, The Netherlands."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1084-5766"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1298-6025"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3775-4837"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "47",
+        "volume": "36",
+        "journalIssueId": 3859320,
+        "dateOfPublication": "2024 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Adv Mater",
+          "title": "Advanced materials (Deerfield Beach, Fla.)",
+          "essn": "1521-4095",
+          "issn": "0935-9648",
+          "nlmid": "9885358",
+          "isoabbreviation": "Adv Mater"
+        },
+        "printPublicationDate": "2024-11-01"
+      },
+      "pubYear": "2024",
+      "pageInfo": "e2408082",
+      "abstractText": "Mechanical metamaterials are rationally designed structures engineered to exhibit extraordinary properties, often surpassing those of their constituent materials. The geometry of metamaterials' building blocks, referred to as unit cells, plays an essential role in determining their macroscopic mechanical behavior. Due to their hierarchical design and remarkable properties, metamaterials hold significant potential for tissue engineering; however their implementation in the field remains limited. The major challenge hindering the broader use of metamaterials lies in the complexity of unit cell design and fabrication. To address this gap, a comprehensive guide is presented detailing the design principles of well-established metamaterials. The essential unit cell geometric parameters and design constraints, as well as their influence on mechanical behavior, are summarized highlighting essential points for effective fabrication. Moreover, the potential integration of artificial intelligence techniques is explored in meta-biomaterial design for patient- and application-specific design. Furthermore, a comprehensive overview of current applications of mechanical metamaterials is provided in tissue engineering, categorized by tissue type, thereby showcasing the versatility of different designs in matching the mechanical properties of the target tissue. This review aims to provide a valuable resource for tissue engineering researchers and aid in the broader use of metamaterials in the field.",
+      "affiliation": "Complex Tissue Regeneration Department, MERLN Institute for Technology-Inspired Regenerative Medicine, Maastricht University, Maastricht, 6229 ER, The Netherlands.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Dutch Research Council (NWO)",
+            "acronym": "NWO_",
+            "grantId": "18647",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Biocompatible Materials",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Tissue Engineering",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MT",
+                  "qualifierName": "methods"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Artificial Intelligence"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Metamaterials",
+          "Auxetic Metamaterials",
+          "Meta\u2010biomaterials",
+          "Metaimplants",
+          "Metascaffolds"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Biocompatible Materials",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/adma.202408082"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11586834"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11586834?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 13,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2024-11-25",
+      "dateOfCreation": "2024-10-07",
+      "dateOfRevision": "2026-02-24",
+      "electronicPublicationDate": "2024-10-06",
+      "firstPublicationDate": "2024-10-06",
+      "firstIndexDate": "2024-10-09",
+      "fullTextReceivedDate": "2024-11-29",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "PMC13295396",
+      "source": "PMC",
+      "pmcid": "PMC13295396",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13295396"
+        ]
+      },
+      "title": "Approach of Dental Implants Through the \u00a0Transfer-Matrix Method",
+      "authorString": "Mitrea R, Tripa M, Vlad A, B\u0103r\u0103ian I, Opri\u0163oiu P, Cordo\u015f R, B\u0103cil\u0103 C, Jucan D, Ungure\u015fan M, Bolundu\u0163 L, Pop D, Duncea I, Pop M, V\u0103lean H, Chereche\u015f I, M\u00eendrescu V, Suciu V, Rotaru D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Mitrea R",
+            "lastName": "Mitrea",
+            "firstName": "R\u01cezvan Alexandru",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mechanical Engineering, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania; (R.A.M.); (A.V.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tripa M",
+            "lastName": "Tripa",
+            "firstName": "Mihai-Sorin",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Design Engineering and Robotics, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania;"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vlad A",
+            "lastName": "Vlad",
+            "firstName": "Alexandru",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mechanical Engineering, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania; (R.A.M.); (A.V.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "B\u0103r\u0103ian I",
+            "lastName": "B\u0103r\u0103ian",
+            "firstName": "Iulia-Maria",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Automation, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania; (I.-M.B.); (H.V.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Opri\u0163oiu P",
+            "lastName": "Opri\u0163oiu",
+            "firstName": "Petre-Corneliu",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Land Measurements and Cadaster, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania;"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cordo\u015f R",
+            "lastName": "Cordo\u015f",
+            "firstName": "Roxana Carmen",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Management and Economic Engineering, Technical University of Cluj-Napoca, 400012 Cluj-Napoca, Romania; (R.C.C.); (C.-G.B.); (D.-C.J.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "B\u0103cil\u0103 C",
+            "lastName": "B\u0103cil\u0103",
+            "firstName": "Carmen-Gabriela",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Management and Economic Engineering, Technical University of Cluj-Napoca, 400012 Cluj-Napoca, Romania; (R.C.C.); (C.-G.B.); (D.-C.J.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jucan D",
+            "lastName": "Jucan",
+            "firstName": "Daniela-Corina",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Management and Economic Engineering, Technical University of Cluj-Napoca, 400012 Cluj-Napoca, Romania; (R.C.C.); (C.-G.B.); (D.-C.J.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ungure\u015fan M",
+            "lastName": "Ungure\u015fan",
+            "firstName": "Mihaela Ligia",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics and Chemistry, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania; (M.L.U.); (L.B.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bolundu\u0163 L",
+            "lastName": "Bolundu\u0163",
+            "firstName": "Liviu",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics and Chemistry, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania; (M.L.U.); (L.B.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pop D",
+            "lastName": "Pop",
+            "firstName": "Dan",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Odontology, \u201cIuliu Ha\u0163eganu\u201d University of Medicine and Pharmacy of Cluj-Napoca, 400012 Cluj-Napoca, Romania; (D.P.); (D.-I.R.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Duncea I",
+            "lastName": "Duncea",
+            "firstName": "Ioana Monica",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Prosthetics and Dental Materials, \u201cIuliu Ha\u0163eganu\u201d University of Medicine and Pharmacy of Cluj-Napoca, 400012 Cluj-Napoca, Romania;"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pop M",
+            "lastName": "Pop",
+            "firstName": "Mariana Florica",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Science and Materials Engineering, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania;"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "V\u0103lean H",
+            "lastName": "V\u0103lean",
+            "firstName": "Honoriu",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Automation, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania; (I.-M.B.); (H.V.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chereche\u015f I",
+            "lastName": "Chereche\u015f",
+            "firstName": "Ioan-Aurel",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Road Vehicles and Transport, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania;"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "M\u00eendrescu V",
+            "lastName": "M\u00eendrescu",
+            "firstName": "Veronica",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Motor Performance, Transylvania University of Bra\u0219ov, 500036 Bra\u0219ov, Romania;"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Suciu V",
+            "lastName": "Suciu",
+            "firstName": "Viorica-Mihaela",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mechanical Engineering, Technical University of Cluj-Napoca, 400114 Cluj-Napoca, Romania; (R.A.M.); (A.V.)"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rotaru D",
+            "lastName": "Rotaru",
+            "firstName": "Doina-Iulia",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Odontology, \u201cIuliu Ha\u0163eganu\u201d University of Medicine and Pharmacy of Cluj-Napoca, 400012 Cluj-Napoca, Romania; (D.P.); (D.-I.R.)"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "6",
+        "volume": "13",
+        "journalIssueId": 4220338,
+        "dateOfPublication": "2026 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Bioengineering (Basel)",
+          "title": "Bioengineering (Basel, Switzerland)",
+          "essn": "2306-5354",
+          "issn": "2306-5354",
+          "nlmid": "101676056",
+          "isoabbreviation": "Bioengineering (Basel)"
+        },
+        "printPublicationDate": "2026-06-01"
+      },
+      "pubYear": "2026",
+      "language": "eng",
+      "pubModel": "Undetermined",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Dental Implant",
+          "Elastic Medium",
+          "00A69",
+          "Buckling Bar",
+          "Rigid Medium",
+          "State Vector",
+          "Transfer-Matrix"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "PubMedCentral",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13295396/?tool=EBI"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "PubMedCentral",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13295396/pdf/?tool=EBI"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13295396"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13295396?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2026-06-27",
+      "dateOfRevision": "2026-06-27",
+      "electronicPublicationDate": "2026-06-01",
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-27",
+      "fullTextReceivedDate": "2026-06-27",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "PMC13700189",
+      "source": "PMC",
+      "pmcid": "PMC13700189",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13700189"
+        ]
+      },
+      "title": "Design principles of prosthetic reconstruction after pelvic tumor resection: a systematic review and perspective from modular systems to 3D-printed personalized solutions",
+      "authorString": "Yu J, Deng Z, Li Z, Fan D, Liu W.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Yu J",
+            "lastName": "Yu",
+            "firstName": "Jiachen",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing, 100035 China"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Deng Z",
+            "lastName": "Deng",
+            "firstName": "Zhiping",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing, 100035 China"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Z",
+            "lastName": "Li",
+            "firstName": "Zhuoyu",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing, 100035 China"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fan D",
+            "lastName": "Fan",
+            "firstName": "Daoyang",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing, 100035 China"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu W",
+            "lastName": "Liu",
+            "firstName": "Weifeng",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Beijing, 100035 China"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "21",
+        "journalIssueId": 4083078,
+        "dateOfPublication": "2026 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "J Orthop Surg Res",
+          "title": "Journal of orthopaedic surgery and research",
+          "essn": "1749-799X",
+          "issn": "1749-799X",
+          "nlmid": "101265112",
+          "isoabbreviation": "J Orthop Surg Res"
+        },
+        "printPublicationDate": "2026-01-01"
+      },
+      "pubYear": "2026",
+      "language": "eng",
+      "pubModel": "Undetermined",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Osseointegration",
+          "Pelvic Tumor",
+          "3D Printing",
+          "Design Principles",
+          "Prosthetic Reconstruction",
+          "Controversy Analysis",
+          "Enneking Classification"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "PubMedCentral",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13700189/?tool=EBI"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "PubMedCentral",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13700189/pdf/?tool=EBI"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13700189"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13700189?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-27",
+      "dateOfRevision": "2026-10-27",
+      "electronicPublicationDate": "2026-01-01",
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2026-10-27",
+      "fullTextReceivedDate": "2026-10-27",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "PMC13709180",
+      "source": "PMC",
+      "pmcid": "PMC13709180",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13709180"
+        ]
+      },
+      "title": "Functionally Graded Polymer Lattice Structures Enabled by Multi-Material Fused Deposition Modeling: Current Progress, Challenges, and Future Perspectives",
+      "journalInfo": {
+        "issue": "20",
+        "volume": "18",
+        "journalIssueId": 4299038,
+        "dateOfPublication": "2026 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Polymers (Basel)",
+          "title": "Polymers",
+          "essn": "2073-4360",
+          "issn": "2073-4360",
+          "nlmid": "101545357",
+          "isoabbreviation": "Polymers (Basel)"
+        },
+        "printPublicationDate": "2026-10-01"
+      },
+      "pubYear": "2026",
+      "language": "eng",
+      "pubModel": "Undetermined",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Energy Absorption",
+          "FDM",
+          "Tpms",
+          "Multi-material",
+          "Functional Grading Strategies",
+          "Functionally Graded Lattice",
+          "Polymer Metamaterials"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "PubMedCentral",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13709180/?tool=EBI"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "PubMedCentral",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13709180/pdf/?tool=EBI"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13709180"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13709180?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-27",
+      "dateOfRevision": "2026-10-27",
+      "electronicPublicationDate": "2026-10-01",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-27",
+      "fullTextReceivedDate": "2026-10-27",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42279410",
+      "source": "MED",
+      "pmid": "42279410",
+      "pmcid": "PMC13256594",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13256594"
+        ]
+      },
+      "doi": "10.3390/cancers18111828",
+      "title": "Should the Pelvic Ring Be Closed After Tumor Resection? A Systematic Review.",
+      "authorString": "Dammerer V, Ardelt M, Neugebauer J, Redl M, Neubauer M, Leone G, Dammerer D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Dammerer V",
+            "lastName": "Dammerer",
+            "firstName": "Verena",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Orthopedics and Traumatology Hospital Scheibbs, Eisenwurzenstra\u00dfe 26, 3270 Scheibbs, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ardelt M",
+            "lastName": "Ardelt",
+            "firstName": "Melanie",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5050-0316"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Karl Landsteiner University of Health Sciences, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Department of Orthopedics and Traumatology, University Hospital Krems, NOE LGA, Karl Landsteiner University, Mitterweg 10, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Center for Regenerative Medicine, Department for Health Sciences, Medicine and Research, University for Continuing Education, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Neugebauer J",
+            "lastName": "Neugebauer",
+            "firstName": "Johannes",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Karl Landsteiner University of Health Sciences, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Department of Orthopedics and Traumatology, University Hospital Krems, NOE LGA, Karl Landsteiner University, Mitterweg 10, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Center for Regenerative Medicine, Department for Health Sciences, Medicine and Research, University for Continuing Education, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Redl M",
+            "lastName": "Redl",
+            "firstName": "Malena",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Karl Landsteiner University of Health Sciences, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Department of Orthopedics and Traumatology, University Hospital Krems, NOE LGA, Karl Landsteiner University, Mitterweg 10, 3500 Krems, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Neubauer M",
+            "lastName": "Neubauer",
+            "firstName": "Markus",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1386-7362"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Karl Landsteiner University of Health Sciences, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Department of Orthopedics and Traumatology, University Hospital Krems, NOE LGA, Karl Landsteiner University, Mitterweg 10, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Center for Regenerative Medicine, Department for Health Sciences, Medicine and Research, University for Continuing Education, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Leone G",
+            "lastName": "Leone",
+            "firstName": "Gianpaolo",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Karl Landsteiner University of Health Sciences, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Department of Orthopedics and Traumatology, University Hospital Krems, NOE LGA, Karl Landsteiner University, Mitterweg 10, 3500 Krems, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dammerer D",
+            "lastName": "Dammerer",
+            "firstName": "Dietmar",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3212-4580"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Karl Landsteiner University of Health Sciences, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Department of Orthopedics and Traumatology, University Hospital Krems, NOE LGA, Karl Landsteiner University, Mitterweg 10, 3500 Krems, Austria."
+                },
+                {
+                  "affiliation": "Center for Regenerative Medicine, Department for Health Sciences, Medicine and Research, University for Continuing Education, Dr. Karl-Dorrek-Stra\u00dfe 30, 3500 Krems, Austria."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1386-7362"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3212-4580"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5050-0316"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "11",
+        "volume": "18",
+        "journalIssueId": 4215135,
+        "dateOfPublication": "2026 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Cancers (Basel)",
+          "title": "Cancers",
+          "essn": "2072-6694",
+          "issn": "2072-6694",
+          "nlmid": "101526829",
+          "isoabbreviation": "Cancers (Basel)"
+        },
+        "printPublicationDate": "2026-06-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "1828",
+      "abstractText": "<b>Background:</b> Primary malignant bone tumors of the pelvis account for 10-15% of all primary bone sarcomas, most commonly chondrosarcoma, osteosarcoma, and Ewing's sarcoma. Although advances have shifted treatment toward internal hemipelvectomy, pelvic resections remain challenging due to the complex anatomy. The need for pelvic reconstruction is controversial, balancing potential stability against higher complication rates. This review evaluates the role of pelvic ring reconstruction, focusing on techniques, outcomes, and complications. <b>Methods:</b> A systematic literature review was performed in June 2025 using PubMed, MEDLINE and Cochrane Library as the primary databases, with the following search string: (hemipelvectomy) AND (orthopedic), acknowledging that this search strategy may be limited in scope. Studies published within the last five years were considered. After performing a full-text assessment of 80 studies, 14 studies were included in this review. Data regarding patients, methods, and outcomes were extracted and summarized. <b>Results:</b> Among the 14 included studies, seven investigated patient-specific three-dimensional (3D) printed pelvic reconstructions, four reported biological reconstruction techniques, two studies focused on non-reconstructive management and one study evaluated alternative stabilization using segmental spinal instrumentation. 3D printed and other reconstructive techniques were associated with improvements in the Musculoskeletal Tumor Society score, reduced pain, and demonstrated osseointegration with few mechanical failures. Although individual case series demonstrated good ambulation and stable fixation, complication rates, particularly wound and infection-related events, remained frequent. Type III reconstructions and personalized implants showed the highest functional gains but occasionally revealed asymptomatic fretting wear. In contrast, the only Level I evidence indicated significantly higher complication and infection rates in reconstructed patients and better functional outcomes in those managed without reconstruction when spinopelvic stability was preserved. Non-reconstructive strategies, including spinal instrumentation, supported early ambulation with low mechanical failure, while pediatric patients treated without reconstruction experienced a high complication rate but acceptable long-term oncologic outcomes. <b>Conclusions:</b> Current evidence suggests that routine pelvic ring reconstruction after internal hemipelvectomy may not be justified based on the currently available evidence. Patient-specific 3D-printed implants appear to provide consistent improvements in function, pain reduction, and mechanical stability, but are associated with a relevant risk of wound-related and infectious complications. In patients with preserved spinopelvic stability, non-reconstructive strategies may achieve comparable functional outcomes with lower morbidity. Therefore, pelvic reconstruction should be performed selectively, and further prospective multicenter studies are needed to better define appropriate patient selection and optimize reconstructive strategies.",
+      "affiliation": "Department of Orthopedics and Traumatology Hospital Scheibbs, Eisenwurzenstra\u00dfe 26, 3270 Scheibbs, Austria.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Orthopedic",
+          "Pelvic Ring Reconstruction",
+          "Internal Hemipelvectomy"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/cancers18111828"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13256594"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13256594?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-06-12",
+      "dateOfCreation": "2026-06-12",
+      "dateOfRevision": "2026-08-13",
+      "electronicPublicationDate": "2026-06-02",
+      "firstPublicationDate": "2026-06-02",
+      "firstIndexDate": "2026-06-12",
+      "fullTextReceivedDate": "2026-06-13",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "40395492",
+      "source": "MED",
+      "pmid": "40395492",
+      "pmcid": "PMC12082327",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12082327"
+        ]
+      },
+      "doi": "10.1016/j.mbm.2024.100079",
+      "title": "Mechanobiomaterials: Harnessing mechanobiology principles for tissue repair and regeneration.",
+      "authorString": "Lin X, Yang H, Xia Y, Wu K, Chu F, Zhou H, Gao H, Yang L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lin X",
+            "lastName": "Lin",
+            "firstName": "Xiao",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4127-3051"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orthopedic Institute, Department of Orthopedics, The First Affiliated Hospital, Soochow University, Suzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang H",
+            "lastName": "Yang",
+            "firstName": "Hua",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical Engineering, Hebei University of Technology, Tianjin, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xia Y",
+            "lastName": "Xia",
+            "firstName": "Yi",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Sciences and Engineering (CHSE), Hebei Key Laboratory of Biomaterials and Smart Theranostics, School of Health Sciences and Biomedical Engineering, Hebei University of Technology, Tianjin, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wu K",
+            "lastName": "Wu",
+            "firstName": "Kang",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3742-1426"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orthopedic Institute, Department of Orthopedics, The First Affiliated Hospital, Soochow University, Suzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chu F",
+            "lastName": "Chu",
+            "firstName": "Fengcheng",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orthopedic Institute, Department of Orthopedics, The First Affiliated Hospital, Soochow University, Suzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou H",
+            "lastName": "Zhou",
+            "firstName": "Huan",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Sciences and Engineering (CHSE), Hebei Key Laboratory of Biomaterials and Smart Theranostics, School of Health Sciences and Biomedical Engineering, Hebei University of Technology, Tianjin, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao H",
+            "lastName": "Gao",
+            "firstName": "Huajian",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Mechano-X Institute, Applied Mechanics Laboratory, Department of Engineering Mechanics, Tsinghua University, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang L",
+            "lastName": "Yang",
+            "firstName": "Lei",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Orthopedic Institute, Department of Orthopedics, The First Affiliated Hospital, Soochow University, Suzhou, China."
+                },
+                {
+                  "affiliation": "Center for Health Sciences and Engineering (CHSE), Hebei Key Laboratory of Biomaterials and Smart Theranostics, School of Health Sciences and Biomedical Engineering, Hebei University of Technology, Tianjin, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4127-3051"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3742-1426"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "3",
+        "volume": "2",
+        "journalIssueId": 3788240,
+        "dateOfPublication": "2024 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Mechanobiol Med",
+          "title": "Mechanobiology in medicine",
+          "essn": "2949-9070",
+          "issn": "2949-9070",
+          "nlmid": "9918804283006676",
+          "isoabbreviation": "Mechanobiol Med"
+        },
+        "printPublicationDate": "2024-09-01"
+      },
+      "pubYear": "2024",
+      "pageInfo": "100079",
+      "abstractText": "Mechanical stimuli are known to play critical roles in mediating tissue repair and regeneration. Recently, this knowledge has led to a paradigm shift toward proactive programming of biological functionalities of biomaterials by leveraging mechanics-geometry-biofunction relationships, which are beginning to shape the newly emerging field of mechanobiomaterials. To profile this emerging field, this article aims to elucidate the fundamental principles in modulating biological responses with material-tissue mechanical interactions, illustrate recent findings on the relationships between material properties and biological responses, discuss the importance of mathematical/physical models and numerical simulations in optimizing material properties and geometry, and outline design strategies for mechanobiomaterials and their potential for tissue repair and regeneration. Given that the field of mechanobiomaterials is still in its infancy, this article also discusses open questions and challenges that need to be addressed.",
+      "affiliation": "Orthopedic Institute, Department of Orthopedics, The First Affiliated Hospital, Soochow University, Suzhou, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Hebei Provincial Natural Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "agency": "Priority Academic Program Development of Jiangsu Higher Education Institutions",
+            "orderIn": 0
+          },
+          {
+            "agency": "Tianjin Municipal Natural Science Foundation",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Mechanics",
+          "Biomaterials",
+          "Mechanobiology",
+          "Tissue Repair And Regeneration",
+          "Mechanobiomaterials"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.mbm.2024.100079"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12082327"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12082327?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 17,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2025-05-21",
+      "dateOfRevision": "2025-05-22",
+      "electronicPublicationDate": "2024-05-16",
+      "firstPublicationDate": "2024-05-16",
+      "firstIndexDate": "2025-05-21",
+      "fullTextReceivedDate": "2025-12-03",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42300812",
+      "source": "MED",
+      "pmid": "42300812",
+      "pmcid": "PMC13262411",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13262411"
+        ]
+      },
+      "doi": "10.1039/d6mh00395h",
+      "title": "Predictive wave engineering in polymer phononic materials &lt;i&gt;via&lt;/i&gt; viscoelastic-geometric coupling.",
+      "authorString": "Beniwal S, Bose RK, Krushynska AO.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Beniwal S",
+            "lastName": "Beniwal",
+            "firstName": "Sidharth",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-1206-1487"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Engineering and Technology Institute Groningen (ENTEG), Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands. s.beniwal@rug.nl."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bose RK",
+            "lastName": "Bose",
+            "firstName": "Ranjita K",
+            "initials": "RK",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1928-5264"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Engineering and Technology Institute Groningen (ENTEG), Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands. s.beniwal@rug.nl."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Krushynska AO",
+            "lastName": "Krushynska",
+            "firstName": "Anastasiia O",
+            "initials": "AO",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3259-2592"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Engineering and Technology Institute Groningen (ENTEG), Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands. s.beniwal@rug.nl."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1928-5264"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3259-2592"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0002-1206-1487"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "15",
+        "volume": "13",
+        "journalIssueId": 4237103,
+        "dateOfPublication": "2026 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Mater Horiz",
+          "title": "Materials horizons",
+          "essn": "2051-6355",
+          "issn": "2051-6347",
+          "nlmid": "101623537",
+          "isoabbreviation": "Mater Horiz"
+        },
+        "printPublicationDate": "2026-08-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "7494-7509",
+      "abstractText": "Additive manufacturing has emerged as the most accessible option for fabricating polymer-based phononic materials, enabling complex architectures for advanced wave-control applications. However, improper or oversimplified material characterization often limits predictive accuracy and experimental reproducibility in wave control. Here, we establish an experimentally validated framework that integrates experimentally characterized viscoelastic material properties with systematic design variations to achieve accurate numerical predictions and experimental validation of wave dynamics in polymer phononic materials. We use the simplest disc-ligament designs of phononic crystals, analogous to mass-spring systems, and plot condensed band diagrams to examine the sensitivity of band gaps to systematic variations in unit-cell geometry and material distribution, including controlled porosity. Finite-element simulations incorporating experimentally measured viscoelastic properties are compared with transmission experiments across multiple geometries and polymer types, achieving close agreement between predicted and measured transmission responses. Overall, these findings provide a framework for accurate prediction of wave dynamics in additively manufactured polymer phononic materials.",
+      "affiliation": "Engineering and Technology Institute Groningen (ENTEG), Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands. s.beniwal@rug.nl.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "brief-report",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Dutch Research Council (NWO)",
+            "grantId": "OCENW.M.21.186",
+            "orderIn": 0
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1039/d6mh00395h"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13262411"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2026-06-16",
+      "dateOfRevision": "2026-09-22",
+      "electronicPublicationDate": "2026-08-03",
+      "firstPublicationDate": "2026-08-03",
+      "firstIndexDate": "2026-06-18",
+      "fullTextReceivedDate": "2026-06-13",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "38770028",
+      "source": "MED",
+      "pmid": "38770028",
+      "pmcid": "PMC11102953",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11102953"
+        ]
+      },
+      "doi": "10.3389/fmedt.2024.1388207",
+      "title": "Experimental validation of auxetic stent designs: three-point bending of 3D printed Titanium prototypes.",
+      "authorString": "Vellaparambil R, Han WS, Di Giovanni P, Avril S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Vellaparambil R",
+            "lastName": "Vellaparambil",
+            "firstName": "Rahul",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2538-5598"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Mines Saint-Etienne, Universit\u00e9 Jean Monnet Saint-Etienne, INSERM, SAINBIOSE U1059, Saint-Etienne, France."
+                },
+                {
+                  "affiliation": "Research and Development Department, HSL S.R.L, Trento, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Han WS",
+            "lastName": "Han",
+            "firstName": "Woo-Suck",
+            "initials": "WS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Mines Saint-Etienne, Universit\u00e9 Jean Monnet Saint-Etienne, INSERM, SAINBIOSE U1059, Saint-Etienne, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Di Giovanni P",
+            "lastName": "Di Giovanni",
+            "firstName": "Pierluigi",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research and Development Department, HSL S.R.L, Trento, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Avril S",
+            "lastName": "Avril",
+            "firstName": "St\u00e9phane",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8604-7736"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Mines Saint-Etienne, Universit\u00e9 Jean Monnet Saint-Etienne, INSERM, SAINBIOSE U1059, Saint-Etienne, France."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2538-5598"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8604-7736"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "volume": "6",
+        "journalIssueId": 3714640,
+        "dateOfPublication": "2024 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Front Med Technol",
+          "title": "Frontiers in medical technology",
+          "essn": "2673-3129",
+          "issn": "2673-3129",
+          "nlmid": "101772626",
+          "isoabbreviation": "Front Med Technol"
+        },
+        "printPublicationDate": "2024-01-01"
+      },
+      "pubYear": "2024",
+      "pageInfo": "1388207",
+      "abstractText": "<h4>Introduction</h4>Numerical simulations have demonstrated the superior bending flexibility of auxetic stents compared to conventional stent designs for endovascular procedures. However, conventional stent manufacturing techniques struggle to produce complex auxetic stent designs, fueling the adoption of additive manufacturing techniques.<h4>Methods</h4>In this study, we employed DMLS additive manufacturing to create Titanium Ti64 alloy stent prototypes based on auxetic stent designs investigated in a previous study. These prototypes were then subjected to experimental three-point bending tests.<h4>Result</h4>The experimental results were replicated using a finite element model, which showed remarkable accuracy in predicting the bending flexibility of four auxetic stents and two conventional stents.<h4>Discussion</h4>Although this validation study demonstrates the promising potential of DMLS and other additive manufacturing methods for fabricating auxetic stents, further optimization of current stent design limitations and the incorporation of post-processing techniques are essential to enhance the reliability of these additive manufacturing processes.",
+      "affiliation": "Mines Saint-Etienne, Universit\u00e9 Jean Monnet Saint-Etienne, INSERM, SAINBIOSE U1059, Saint-Etienne, France.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Finite Element Analysis",
+          "Endovascular Stent",
+          "Three-point Bending",
+          "Experimental Validation",
+          "Auxetic Stent",
+          "Dmls Additive Manufacturing"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fmedt.2024.1388207/pdf?isPublishedV2=False"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fmedt.2024.1388207/pdf?isPublishedV2=False"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fmedt.2024.1388207/pdf?isPublishedV2=False"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fmedt.2024.1388207"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11102953"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11102953?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2024-05-21",
+      "dateOfRevision": "2024-05-22",
+      "electronicPublicationDate": "2024-05-06",
+      "firstPublicationDate": "2024-05-06",
+      "firstIndexDate": "2024-05-22",
+      "fullTextReceivedDate": "2026-10-13",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "39917282",
+      "source": "MED",
+      "pmid": "39917282",
+      "pmcid": "PMC11800090",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11800090"
+        ]
+      },
+      "doi": "10.1016/j.jot.2024.09.012",
+      "title": "Design of internal fixation implants for fracture: A review.",
+      "authorString": "Zhang H, Xu S, Ding X, Xiong M, Duan P.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhang H",
+            "lastName": "Zhang",
+            "firstName": "Heng",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical Engineering, University of Shanghai for Science and Technology, No. 516 Jungong Road, Shanghai, 200093, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu S",
+            "lastName": "Xu",
+            "firstName": "Shipeng",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Institute of Special Equipment Inspection and Technical Research, No.915 Jinshajiang Road, Shanghai, 200062, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ding X",
+            "lastName": "Ding",
+            "firstName": "Xiaohong",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical Engineering, University of Shanghai for Science and Technology, No. 516 Jungong Road, Shanghai, 200093, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xiong M",
+            "lastName": "Xiong",
+            "firstName": "Min",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical Engineering, University of Shanghai for Science and Technology, No. 516 Jungong Road, Shanghai, 200093, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Duan P",
+            "lastName": "Duan",
+            "firstName": "Pengyun",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical Engineering, University of Shanghai for Science and Technology, No. 516 Jungong Road, Shanghai, 200093, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "50",
+        "journalIssueId": 3869374,
+        "dateOfPublication": "2025 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "J Orthop Translat",
+          "title": "Journal of orthopaedic translation",
+          "essn": "2214-0328",
+          "issn": "2214-031X",
+          "nlmid": "101625127",
+          "isoabbreviation": "J Orthop Translat"
+        },
+        "printPublicationDate": "2025-01-01"
+      },
+      "pubYear": "2025",
+      "pageInfo": "306-332",
+      "abstractText": "Internal fixation is the most common and effective fracture treatment, and the design of Internal Fixation Implants (IFI) is important for fracture healing. In recent decades, IFI have been designed from the aspects of materials, geometry, fixation methods and functional characteristics. However, there has been no comprehensive summary on the evaluation method and design methods of IFI. This paper aims to review and analyze the key issues involved in the design of IFI, to provide references for IFI design. Firstly, the main factors affecting the healing effect are summarized and the design requirements of IFI are put forward through the analysis of fracture healing process. Secondly, the evaluation methods of IFI are compared and summarized, and the importance of evaluation methods based on fracture healing theory is emphasized. Subsequently, the properties and application scopes of common biomaterials for IFI are introduced. And the IFI, which is used widely, such as bone plate, intramedullary nail and embracing device, are summed up from the aspects of design factors and design methods. Highlight the distinctive contributions of additive manufacturing for the fabrication of implants and surface treatment for improving the multifunctionality of implants. Finally, the design concept of ideal IFI and the potential research content in the future are proposed based on the design requirements and the summary of the existing design studies.<h4>The translational potential of this article</h4>This study summarizes and analyzes the key issues involved in the design of IFI, which provide references for IFI design. A discussion on future research directions and suggestion were made, which is expected to advance the research in this field.",
+      "affiliation": "School of Mechanical Engineering, University of Shanghai for Science and Technology, No. 516 Jungong Road, Shanghai, 200093, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Shanghai Municipal Natural Science Foundation",
+            "grantId": "22ZR1442800",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Natural Science Foundation of China",
+            "grantId": "52375257",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Natural Science Foundation of China",
+            "grantId": "51975380",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Fracture Healing",
+          "evaluation method",
+          "Surface Treatment",
+          "Additive Manufacturing",
+          "Ifi Design",
+          "Internal Fixation Implant"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.jot.2024.09.012"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11800090"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11800090?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2025-02-07",
+      "dateOfRevision": "2025-02-08",
+      "electronicPublicationDate": "2025-01-24",
+      "firstPublicationDate": "2025-01-24",
+      "firstIndexDate": "2025-02-08",
+      "fullTextReceivedDate": "2025-12-02",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "40183751",
+      "source": "MED",
+      "pmid": "40183751",
+      "pmcid": "PMC12083438",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12083438"
+        ]
+      },
+      "doi": "10.1002/adhm.202500405",
+      "title": "Mandibular Implants: A Metamaterial-Based Approach to Reducing Stress Shielding.",
+      "authorString": "Heins JI, Merema BBJ, Kraeima J, Witjes MJH, Krushynska AO.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Heins JI",
+            "lastName": "Heins",
+            "firstName": "Jorn-Ids",
+            "initials": "JI",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8883-109X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oral and Maxillofacial Surgery, University of Groningen, University Medical Center Groningen, Groningen, 9713 GZ, The Netherlands."
+                },
+                {
+                  "affiliation": "3D Lab, University Medical Center Groningen, University of Groningen, Groningen, 9713 GZ, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Merema BBJ",
+            "lastName": "Merema",
+            "firstName": "Bram B J",
+            "initials": "BBJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0994-3104"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oral and Maxillofacial Surgery, University of Groningen, University Medical Center Groningen, Groningen, 9713 GZ, The Netherlands."
+                },
+                {
+                  "affiliation": "3D Lab, University Medical Center Groningen, University of Groningen, Groningen, 9713 GZ, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kraeima J",
+            "lastName": "Kraeima",
+            "firstName": "Joep",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8527-960X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oral and Maxillofacial Surgery, University of Groningen, University Medical Center Groningen, Groningen, 9713 GZ, The Netherlands."
+                },
+                {
+                  "affiliation": "3D Lab, University Medical Center Groningen, University of Groningen, Groningen, 9713 GZ, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Witjes MJH",
+            "lastName": "Witjes",
+            "firstName": "Max J H",
+            "initials": "MJH",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4135-3246"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Oral and Maxillofacial Surgery, University of Groningen, University Medical Center Groningen, Groningen, 9713 GZ, The Netherlands."
+                },
+                {
+                  "affiliation": "3D Lab, University Medical Center Groningen, University of Groningen, Groningen, 9713 GZ, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Krushynska AO",
+            "lastName": "Krushynska",
+            "firstName": "Anastasiia O",
+            "initials": "AO",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3259-2592"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Engineering and Technology Institute Groningen, University of Groningen, Groningen, 9747AG, The Netherlands."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8527-960X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4135-3246"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8883-109X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0994-3104"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3259-2592"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "13",
+        "volume": "14",
+        "journalIssueId": 3942682,
+        "dateOfPublication": "2025 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Adv Healthc Mater",
+          "title": "Advanced healthcare materials",
+          "essn": "2192-2659",
+          "issn": "2192-2640",
+          "nlmid": "101581613",
+          "isoabbreviation": "Adv Healthc Mater"
+        },
+        "printPublicationDate": "2025-05-01"
+      },
+      "pubYear": "2025",
+      "pageInfo": "e2500405",
+      "abstractText": "Biomechanical complications, such as stress shielding, bone resorption, and reconstruction failure, are prevalently associated with solid titanium mandible reconstruction plates. This study evaluates the potential of metamaterial designs with porous gyroid microarchitectures, to enhance biomechanical stimulation and mitigate these complications. A novel metamaterial reconstruction plate is compared with solid titanium plates, both patient-specifically designed and fabricated from Ti6Al4\u00a0V alloy. Stress shielding is assessed through photoelasticity experiments and validated with finite element analysis (FEA). Transparent mandible models are loaded incrementally (0-1000 N) to analyze stress distributions in the implants, screws, and mandible segments. The metamaterial plate reduces stress concentrations in the distant mandibular regions from the defect, while increasing stress around the screws near the defect, favoring local mechanical stimulation. FEA confirms improved load distribution (p = 0.003). However, the metamaterial plate exhibited a lower load-bearing capacity, failing at 775 N, while the solid plate withstood 1800 N without failure. Yet, the metamaterial design effectively reduced stress shielding, thereby enhancing biomechanical function near critical mandibular regions. Hence, despite their reduced load-bearing capacity, they can, potentially, preserve bone integrity and prevent implant failure that should be validated in future (pre-)clinical studies.",
+      "affiliation": "Department of Oral and Maxillofacial Surgery, University of Groningen, University Medical Center Groningen, Groningen, 9713 GZ, The Netherlands.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Mandible",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "SU",
+                  "qualifierName": "surgery"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Titanium",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Alloys"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Materials Testing"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Bone Plates"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Finite Element Analysis"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Stress, Mechanical"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biomechanical Phenomena"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Mandible",
+          "Implant",
+          "Porous",
+          "Photoelasticity",
+          "Metamaterial"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "titanium alloy (TiAl6V4)",
+            "registryNumber": "12743-70-3"
+          },
+          {
+            "name": "Alloys",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Titanium",
+            "registryNumber": "D1JT611TNE"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adhm.202500405"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/adhm.202500405"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12083438"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12083438?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 7,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-05-16",
+      "dateOfCreation": "2025-04-04",
+      "dateOfRevision": "2026-05-23",
+      "electronicPublicationDate": "2025-04-04",
+      "firstPublicationDate": "2025-04-04",
+      "firstIndexDate": "2025-04-07",
+      "fullTextReceivedDate": "2025-05-19",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "41470981",
+      "source": "MED",
+      "pmid": "41470981",
+      "pmcid": "PMC12736839",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12736839"
+        ]
+      },
+      "doi": "10.3390/polym17243307",
+      "title": "An Overview of Additive Manufacturing of Triply Periodic Minimal Surface (TPMS) Structures.",
+      "authorString": "Hossain MS, Hossain MM, Nilufar S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Hossain MS",
+            "lastName": "Hossain",
+            "firstName": "Md Sakhawat",
+            "initials": "MS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0009-7588-7500"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical, Aerospace, and Materials Engineering, Southern Illinois University Carbondale, Carbondale, IL 62901, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hossain MM",
+            "lastName": "Hossain",
+            "firstName": "Md Mosharrof",
+            "initials": "MM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical, Aerospace, and Materials Engineering, Southern Illinois University Carbondale, Carbondale, IL 62901, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nilufar S",
+            "lastName": "Nilufar",
+            "firstName": "Sabrina",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0007-1977-5673"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Mechanical, Aerospace, and Materials Engineering, Southern Illinois University Carbondale, Carbondale, IL 62901, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0009-0005-8684-7863"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0007-1977-5673"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0009-7588-7500"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "24",
+        "volume": "17",
+        "journalIssueId": 4080444,
+        "dateOfPublication": "2025 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Polymers (Basel)",
+          "title": "Polymers",
+          "essn": "2073-4360",
+          "issn": "2073-4360",
+          "nlmid": "101545357",
+          "isoabbreviation": "Polymers (Basel)"
+        },
+        "printPublicationDate": "2025-12-01"
+      },
+      "pubYear": "2025",
+      "pageInfo": "3307",
+      "abstractText": "Triply periodic minimal surfaces (TPMS) are mathematically defined minimal surfaces that exhibit zero mean curvature and repeat periodically along all three Cartesian axes. They integrate mathematically defined geometry with extensive functional adjustability. Their smooth, non-self-intersecting topology enables systematic control over relative density and improves load transfer efficiency within the lattice. Their large surface area-to-volume ratios further enhance specific energy absorption (SEA) and enable diverse functional uses. Recent developments in additive manufacturing (AM) have made it easier to create TPMS structures. As a result, they are now considered as the architected materials that combine biological, thermal, and mechanical functions within a single framework. This study presents a comprehensive overview of the major TPMS structures. It further highlights several AM techniques used for their fabrication and provides a critical evaluation of how geometric design, relative density, and post-processing influence their mechanical and thermal performances. This work also discusses recent developments in graded and hybrid TPMS structures. It further identifies the main challenges and future research directions related to multi-material additive manufacturing and data-driven topology optimization.",
+      "affiliation": "School of Mechanical, Aerospace, and Materials Engineering, Southern Illinois University Carbondale, Carbondale, IL 62901, USA.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "U.S. National Science Foundation",
+            "grantId": "2138459",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Finite Element Analysis",
+          "Metamaterials",
+          "Additive Manufacturing",
+          "Triply Periodic Minimal Surfaces"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/polym17243307"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12736839"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12736839?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 7,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2025-12-31",
+      "dateOfCreation": "2025-12-31",
+      "dateOfRevision": "2026-01-02",
+      "electronicPublicationDate": "2025-12-14",
+      "firstPublicationDate": "2025-12-14",
+      "firstIndexDate": "2026-01-02",
+      "fullTextReceivedDate": "2025-12-25",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "39359405",
+      "source": "MED",
+      "pmid": "39359405",
+      "pmcid": "PMC11446144",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11446144"
+        ]
+      },
+      "doi": "10.1007/s12008-023-01682-1",
+      "title": "An examination of auxetic componentry for applications in human-centred biomedical product design settings.",
+      "authorString": "Urquhart L, Tamburrino F, Neri P, Wodehouse A, Fingland C, Razionale AV.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Urquhart L",
+            "lastName": "Urquhart",
+            "firstName": "Lewis",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9773-8225"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Strathclyde, Glasgow, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tamburrino F",
+            "lastName": "Tamburrino",
+            "firstName": "Francesco",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Pisa, Pisa, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Neri P",
+            "lastName": "Neri",
+            "firstName": "Paolo",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0730-0893"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Pisa, Pisa, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wodehouse A",
+            "lastName": "Wodehouse",
+            "firstName": "Andrew",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9605-3497"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Strathclyde, Glasgow, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fingland C",
+            "lastName": "Fingland",
+            "firstName": "Craig",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Loud1Design, Glasgow, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Razionale AV",
+            "lastName": "Razionale",
+            "firstName": "Armando Viviano",
+            "initials": "AV",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Pisa, Pisa, Italy."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9605-3497"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9773-8225"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0730-0893"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "8",
+        "volume": "18",
+        "journalIssueId": 3835452,
+        "dateOfPublication": "2024 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Int J Interact Des Manuf",
+          "title": "International journal on interactive design and manufacturing",
+          "essn": "1955-2505",
+          "issn": "1955-2513",
+          "nlmid": "9918900791906676",
+          "isoabbreviation": "Int J Interact Des Manuf"
+        },
+        "printPublicationDate": "2024-01-01"
+      },
+      "pubYear": "2024",
+      "pageInfo": "5457-5467",
+      "abstractText": "This paper explores how the examination of additively manufactured auxetic componentry can be applied in human-centred design settings with particular focus on biomedical products. Firstly, the design applications of auxetics are detailed followed by a review of the key problems facing practical researchers in the field with the treatment of boundary conditions identified as a key issue. The testing setup that is then introduced utilises a novel method of part mounting and facilitates optical analysis and real-time force-displacement measurements. A study is advanced that analyses three different auxetic structures (re-entrant, chiral, and semi-rigid), a set of samples of which were additively manufactured in flexible TPU material. A range of parameters were varied across the three designs including interior geometry and wall thicknesses in order to demonstrate the effectiveness of the setup for the examination of the different structures. The results from these examinations are subsequently discussed and a number of suggestions made regarding how this kind of analysis may be integrated into novel design development workflows for achieving human-centred biomedical devices which often require detailed consideration of ergonomic and usability factors.",
+      "affiliation": "University of Strathclyde, Glasgow, UK.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "European Research Council",
+            "grantId": "856998",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Biomedical Applications",
+          "Human-centred Design",
+          "Mechanical Testing",
+          "Auxetics"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s12008-023-01682-1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11446144"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11446144?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2024-10-03",
+      "dateOfRevision": "2024-10-04",
+      "electronicPublicationDate": "2023-12-21",
+      "firstPublicationDate": "2023-12-21",
+      "firstIndexDate": "2024-10-09",
+      "fullTextReceivedDate": "2025-02-05",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "37050406",
+      "source": "MED",
+      "pmid": "37050406",
+      "pmcid": "PMC10098569",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10098569"
+        ]
+      },
+      "doi": "10.3390/polym15071792",
+      "title": "Deformation Behavior Investigation of Auxetic Structure Made of Poly(butylene adipate-co-terephthalate) Biopolymers Using Finite Element Method.",
+      "authorString": "Schneider Y, Guski V, Schmauder S, Kadkhodapour J, Hufert J, Grebhardt A, Bonten C.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Schneider Y",
+            "lastName": "Schneider",
+            "firstName": "Yanling",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2868-629X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Materials Testing, Materials Science and Strength of Materials (IMWF), University of Stuttgart, Pfaffenwaldring 32, D-70569 Stuttgart, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guski V",
+            "lastName": "Guski",
+            "firstName": "Vinzenz",
+            "initials": "V",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9475-2750"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Materials Testing, Materials Science and Strength of Materials (IMWF), University of Stuttgart, Pfaffenwaldring 32, D-70569 Stuttgart, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schmauder S",
+            "lastName": "Schmauder",
+            "firstName": "Siegfried",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6022-3853"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Materials Testing, Materials Science and Strength of Materials (IMWF), University of Stuttgart, Pfaffenwaldring 32, D-70569 Stuttgart, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kadkhodapour J",
+            "lastName": "Kadkhodapour",
+            "firstName": "Javad",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mechanical Engineering, Shahid Rajaee Teacher Training University, Tehran P. O. Box 16785-163, Iran."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hufert J",
+            "lastName": "Hufert",
+            "firstName": "Jonas",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut f\u00fcr Kunststofftechnik, University of Stuttgart, Pfaffenwaldring 32, D-70569 Stuttgart, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Grebhardt A",
+            "lastName": "Grebhardt",
+            "firstName": "Axel",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut f\u00fcr Kunststofftechnik, University of Stuttgart, Pfaffenwaldring 32, D-70569 Stuttgart, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bonten C",
+            "lastName": "Bonten",
+            "firstName": "Christian",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2709-783X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut f\u00fcr Kunststofftechnik, University of Stuttgart, Pfaffenwaldring 32, D-70569 Stuttgart, Germany."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6022-3853"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2709-783X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2868-629X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9475-2750"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "7",
+        "volume": "15",
+        "journalIssueId": 3543174,
+        "dateOfPublication": "2023 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Polymers (Basel)",
+          "title": "Polymers",
+          "essn": "2073-4360",
+          "issn": "2073-4360",
+          "nlmid": "101545357",
+          "isoabbreviation": "Polymers (Basel)"
+        },
+        "printPublicationDate": "2023-04-01"
+      },
+      "pubYear": "2023",
+      "pageInfo": "1792",
+      "abstractText": "Auxetic structures made of biodegradable polymers are favorable for industrial and daily life applications. In this work, poly(butylene adipate-co-terephthalate) (PBAT) is chosen for the study of the deformation behavior of an inverse-honeycomb auxetic structure manufactured using the fused filament fabrication. The study focus is on auxetic behavior. One characteristic of polymer deformation prediction using finite element (FE) simulation is that no sounded FE model exists, due to the significantly different behavior of polymers under loading. The deformation behavior prediction of auxetic structures made of polymers poses more challenges, due to the coupled influences of material and topology on the overall behavior. Our work presents a general process to simulate auxetic structural deformation behavior for various polymers, such as PBAT, PLA (polylactic acid), and their blends. The current report emphasizes the first one. Limited by the state of the art, there is no unified regulation for calculating the Poisson's ratio \u03bd for auxetic structures. Here, three calculation ways of \u03bd are presented based on measured data, one of which is found to be suitable to present the auxetic structural behavior. Still, the influence of the auxetic structural topology on the calculated Poisson's ratio value is also discussed, and a suggestion is presented. The numerically predicted force-displacement curve, Poisson's ratio evolution, and the deformed auxetic structural status match the testing results very well. Furthermore, FE simulation results can easily illustrate the stress distribution both statistically and local-topology particularized, which is very helpful in analyzing in-depth the auxetic behavior.",
+      "affiliation": "Institute for Materials Testing, Materials Science and Strength of Materials (IMWF), University of Stuttgart, Pfaffenwaldring 32, D-70569 Stuttgart, Germany.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "German Scientific Foundation (DFG)",
+            "grantId": "SCHM 746/221-1",
+            "orderIn": 0
+          },
+          {
+            "agency": "German Scientific Foundation (DFG)",
+            "grantId": "BO 1600/51-1",
+            "orderIn": 0
+          },
+          {
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "grantId": "SCHM 746/221-1 and BO 1600/51-1",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Stress distribution",
+          "Biodegradable",
+          "Metamaterial",
+          "Fe Simulation",
+          "Poisson\u2019s Ratio Evolution",
+          "Auxetic Behavior"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.mdpi.com/2073-4360/15/7/1792/pdf?version=1680668539"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/polym15071792"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10098569"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10098569?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2023-04-13",
+      "dateOfRevision": "2023-04-15",
+      "electronicPublicationDate": "2023-04-04",
+      "firstPublicationDate": "2023-04-04",
+      "firstIndexDate": "2023-04-14",
+      "fullTextReceivedDate": "2025-02-04",
+      "hasEvaluations": "N"
+    }
+  ]
+}
