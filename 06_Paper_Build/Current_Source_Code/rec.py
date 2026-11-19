@@ -3,6 +3,7 @@
 import os
 import sys
 
+from paths import FIG_FINAL, FIG_SRC
 import part_a, part_b, part_c, part_d
 
 ELEMS = []
@@ -28,7 +29,7 @@ def _bullet(doc, prefix, text):
 def _figure(doc, filename, n, caption, width_in=5.8):
     if filename == 'FIG2_COMPOSITE':
         filename = 'sysml_composite.png'
-    for d in ('D:/MBSE/Paper/figs2', 'D:/MBSE/Paper/figures'):
+    for d in (FIG_FINAL, FIG_SRC):
         p = os.path.join(d, filename)
         if os.path.exists(p):
             ELEMS.append(('fig', p, n, caption, width_in))

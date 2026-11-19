@@ -13,14 +13,12 @@ This folder is an organized COPY. The originals in `D:\MBSE` and `D:\MBSE\Paper`
 | `06_Paper_Build` | `Current_Source_Code` (builds the Word and LaTeX files), `Figure_Generators`, `Figures` (final paper figures, SysML source diagrams, scratch previews), `Older_Build_and_Audit_Scripts` |
 | `07_Final_Deliverables` | `Word` (final_draft_1.docx and .pdf) and `LaTeX_Overleaf` (final_draft_1_latex source plus your compiled latexx.pdf) |
 
-## Rebuilding the paper
-The scripts in `06_Paper_Build/Current_Source_Code` still use the original absolute paths (`D:/MBSE/Paper/...`), so run them from the original location:
-`cd D:\MBSE\Paper` then `python build_both.py tex`.
-The copies here are an archive and for reading.
+## Reproducing the results
+See [REPRODUCE.md](REPRODUCE.md) for the step-by-step guide (CAD, COMSOL, figures, paper build).
 
 ## LaTeX
 Upload the folder `07_Final_Deliverables/LaTeX_Overleaf/final_draft_1_latex` to Overleaf and compile with XeLaTeX.
-`latexx.pdf` is the earlier compile of the first version; its tables were broken and have since been fixed in the .tex.
+`latexx.pdf` is an earlier compile of the first version; its tables were broken and have since been fixed in the .tex.
 
 ## Not included in this repository
 - The reference PDFs (third-party copyright). Titles are listed in `01_Reference_Literature/REFERENCES.md`.

@@ -1,7 +1,10 @@
 import matplotlib; matplotlib.use('Agg')
 import matplotlib.pyplot as plt, pandas as pd, numpy as np
 plt.rcParams.update({'font.family':'serif','font.size':9,'axes.spines.top':False,'axes.spines.right':False})
-O='D:/MBSE/Paper/figs2/'
+import os
+from paths import FIG_FINAL, RESULTS
+O=os.environ.get('MBSE_FIG_OUT', FIG_FINAL)+os.sep
+os.makedirs(O, exist_ok=True)
 col={'A1':'#1B365D','A2':'#2E7D9E','N':'#C0541A'}
 # porosity
 t=[.30,.35,.40,.45,.50,.55,.60]
@@ -14,7 +17,7 @@ ax.text(.302,53.6,'target 53%',fontsize=7.5,color='gray'); ax.text(.503,70,'Case
 ax.set_xlabel('Strut thickness t (mm)'); ax.set_ylabel('Planar porosity (%)'); ax.legend(frameon=False,title='Cell')
 fig.tight_layout(); fig.savefig(O+'porosity.png',dpi=300)
 # convergence
-d=pd.read_csv('D:/MBSE/convergence_results.csv'); d['Screw']=d.Screw.str[:-6]
+d=pd.read_csv(os.path.join(RESULTS,'convergence_results.csv')); d['Screw']=d.Screw.str[:-6]
 fig,axs=plt.subplots(1,3,figsize=(7.2,2.6))
 mk={'AS1':'#1B365D','AS2':'#2E7D9E','NS':'#C0541A'}
 for k,g in d.groupby('Screw'):
@@ -26,7 +29,7 @@ for a,y in zip(axs,['Change in $F_y$ vs coarsest mesh (%)','Peak von Mises, whol
     a.set_xlabel('Elements (thousand)'); a.set_ylabel(y,fontsize=8)
 axs[0].legend(frameon=False); fig.tight_layout(); fig.savefig(O+'convergence.png',dpi=300)
 # graded figure
-g=pd.read_csv('D:/MBSE/graded_results.csv'); e=pd.read_csv('D:/MBSE/graded_extra.csv',header=None,names=['Screw','MeshLevel','Ramp','Vol'])
+g=pd.read_csv(os.path.join(RESULTS,'graded_results.csv')); e=pd.read_csv(os.path.join(RESULTS,'graded_extra.csv'),header=None,names=['Screw','MeshLevel','Ramp','Vol'])
 g=g.merge(e,on=['Screw','MeshLevel'])
 U=g[g.Screw=='AS2U_screw'].sort_values('MeshLevel',ascending=False); G=g[g.Screw=='AS2G_screw'].sort_values('MeshLevel',ascending=False)
 fig,axs=plt.subplots(1,3,figsize=(7.2,2.6))

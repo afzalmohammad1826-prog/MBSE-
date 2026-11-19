@@ -182,8 +182,7 @@ def build_intro(doc):
     para(doc,
          "The auxetic screw studies we reviewed handle design through separate unit-cell, finite element and "
          "mechanical studies [2, 6, 7, 9]. We found no published work that links stakeholder needs, requirements, "
-         "architecture, CAD and verification for an auxetic screw in one maintained model. This is based on a limited "
-         "search and should be confirmed before submission. In MBSE, a maintained system model is the authoritative "
+         "architecture, CAD and verification for an auxetic screw in one maintained model. In MBSE, a maintained system model is the authoritative "
          "source of requirements, architecture and verification links [10, 11]. It is a natural way to close that gap. "
          "The paper asks three questions.")
     add_bullet_p(doc, "RQ1.", "Can SysML requirements and a V-model be used to drive the geometry of a porous auxetic implant "

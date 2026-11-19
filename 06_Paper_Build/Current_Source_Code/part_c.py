@@ -36,7 +36,7 @@ def build_trace(doc):
 
 
 def references():
-    d = _docx.Document('D:/MBSE/Paper/draft_3_claude.docx')
+    d = _docx.Document(DRAFT3)
     refs, on = [], False
     for p in d.paragraphs:
         t = p.text.strip()

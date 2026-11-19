@@ -26,7 +26,15 @@ import java.io.PrintWriter;
 public class GradedRun {
 
     private static int meshLevel = 6;
-    private static final String BASE_DIR = "D:/MBSE/";
+    private static final String BASE_DIR = baseDir();
+
+    /** Working folder: set the MBSE_DIR environment variable, default D:/MBSE/. */
+    private static String baseDir() {
+        String d = System.getenv("MBSE_DIR");
+        if (d == null || d.isEmpty()) return "D:/MBSE/";
+        d = d.replace('\\', '/');
+        return d.endsWith("/") ? d : d + "/";
+    }
 
     private static final String[] SCREW_NAMES = {"AS2U_screw","AS2G_screw"};
 
@@ -73,7 +81,7 @@ public class GradedRun {
 
         System.out.println("\n=============================================================");
         System.out.println(" GradedRun — All 3 simulations finished!");
-        System.out.println(" Results saved in: D:/MBSE/");
+        System.out.println(" Results saved in: " + BASE_DIR);
         System.out.println("=============================================================");
     }
 

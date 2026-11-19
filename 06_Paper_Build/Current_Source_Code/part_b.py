@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 """Sections 5-8 of the final manuscript (verification, traceability, discussion, conclusions)."""
 from part_a import *
+import os
 import pandas as pd
+from paths import RESULTS, DRAFT3
 
-conv = pd.read_csv('D:/MBSE/convergence_results.csv')
+conv = pd.read_csv(os.path.join(RESULTS,'convergence_results.csv'))
 conv['Screw'] = conv.Screw.str.replace('_screw', '')
 
 
